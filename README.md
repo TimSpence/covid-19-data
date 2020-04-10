@@ -4,8 +4,15 @@ This fork of [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 provides their data in json.
 
 ## Usage
+Utilities are provided for automation.
 
-    bin/csv2json
+Refresh the source data from NYT's repo:
+
+    make csv
+
+Convert to json:
+
+    make json
 
 outputs these files:
 
