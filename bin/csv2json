@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 
 command -v jq > /dev/null 2>&1 || { echo "You should install jq"; exit 1; }
+
+tmpfile=$(mktemp /tmp/csv2json.XXXXXX)
 lines_read=0
-echo '{ "data": [' > us-states.json
+
+echo '{ "data": [' > $tmpfile
 while IFS=, read date state fips cases deaths;
 do
     lines_read=$((lines_read+1))
@@ -14,7 +17,7 @@ do
     else
       delimiter=','
     fi
-    cat<< EOF >> us-states.json
+    cat<< EOF >> $tmpfile
   $delimiter
   {
   "date" : "$date",
@@ -25,5 +28,6 @@ do
   }
 EOF
 done < us-states.csv
-echo ']}' >> us-states.json
+echo ']}' >> $tmpfile
+jq -r '.' $tmpfile > us-states.json
 tar czf us-states.json.tar.gz us-states.json
