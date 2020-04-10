@@ -42,3 +42,11 @@ The source data is provided at state and county levels.
       "deaths": 0
     }, ...
 ```
+
+## Roadmap
+
+☐ Add database support
+☐ Add additional data sources from around the globe
+☐ Provide an API for querying data
+☐ Add graph support
+☐ Add dashboard
