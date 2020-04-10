@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+command -v jq > /dev/null 2>&1 || { echo "You should install jq"; exit 1; }
+lines_read=0
+echo '{ "data": [' > us-states.json
+while IFS=, read date state fips cases deaths;
+do
+    lines_read=$((lines_read+1))
+    #echo $lines_read
+    if [ $lines_read -eq 1 ]; then
+      continue
+    elif [ $lines_read -eq 2 ]; then
+      delimiter=''
+    else
+      delimiter=','
+    fi
+    cat<< EOF >> us-states.json
+  $delimiter
+  {
+  "date" : "$date",
+  "state" : "$state",
+  "fips" : $fips,
+  "cases" : $cases,
+  "deaths" : $deaths
+  }
+EOF
+done < us-states.csv
+echo ']}' >> us-states.json
+tar czf us-states.json.tar.gz us-states.json
