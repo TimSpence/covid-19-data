@@ -6,6 +6,7 @@ tmpfile=$(mktemp /tmp/csv2json.XXXXXX)
 lines_read=0
 
 echo '{ "data": [' > $tmpfile
+
 while IFS=, read date state fips cases deaths;
 do
     lines_read=$((lines_read+1))
@@ -28,6 +29,8 @@ do
   }
 EOF
 done < us-states.csv
+
 echo ']}' >> $tmpfile
+
 jq -r '.' $tmpfile > us-states.json
 tar czf us-states.json.tar.gz us-states.json
