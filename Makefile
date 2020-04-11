@@ -1,7 +1,7 @@
 all: csv json
 
 csv:
-	git fetch upstream && git merge --ff-only upstream/master
+	bin/fetch_csv counties states
 
 json:
 	bin/csv2json

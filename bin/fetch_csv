@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+#
+# Downloads source data from the NYT Covid repo
+#
+# Usage: fetch_csv GEO1 [GEO2 ...]
+#
+# Arguments: valid values are states, counties
+#
+
+REPO_URL=https://raw.githubusercontent.com/nytimes/covid-19-data
+SUPPORTED_GEOS=(counties states)
+
+[[ $# -eq 0 ]] && { echo 'Missing required argument: Geo'; exit 1; }
+for geo in $*; do
+  if [[ ${SUPPORTED_GEOS[*]} =~ $geo ]]; then
+    download_url="$REPO_URL/master/us-$geo.csv"
+    curl -o csv/$(basename $download_url) --silent $download_url
+  else  
+    echo "valid values are: counties, states"; 
+    exit 1
+  fi
+done
