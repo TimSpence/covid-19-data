@@ -43,6 +43,32 @@ The source data is provided at state and county levels.
     }, ...
 ```
 
+## Querying
+
+Construct queries with jq.  Example:
+```bash
+    jq -r \
+      '[
+      .[]
+      | select( .county == "San Francisco" )
+      | { date: .date, cases: .cases }
+      ]' \
+      us-counties.json
+```
+Output:
+```javascript
+       ...
+      {
+        "date": "2020-04-09",
+        "cases": "734"
+      },
+      {
+        "date": "2020-04-10",
+        "cases": "766"
+      }
+]
+```
+
 ## Roadmap
 
 - Add database support
