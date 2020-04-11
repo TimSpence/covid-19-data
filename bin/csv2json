@@ -1,49 +1,19 @@
 #!/usr/bin/env bash
 
 function check_deps () {
-  command -v jq > /dev/null 2>&1 || { echo "You should install jq"; exit 1; }
+  command -v npm > /dev/null 2>&1 || { printf "You should install npm"; exit 1; }
+  npm list -g csvtojson > /dev/null || { printf "installing csvtojson"; npm
+  install -g csvtojson; }
 }
 
-function convert_row () {
-  cat << EOF
-  {
-  "date" : "$date",
-  "state" : "$state",
-  "fips" : $fips,
-  "cases" : $cases,
-  "deaths" : $deaths
-  }
-EOF
-}
-
-function header () {
-  echo '{ "data": ['
-}
-
-function footer () {
-  echo ']}'
-}
-
+set -e
 check_deps
-tmpfile=$(mktemp /tmp/csv2json.XXXXXX)
-lines_read=0
+[[ $# -eq 0 ]] && { echo "missing required argument: Geo"; exit 1; }
 
-header > $tmpfile
+for geo in $*; do
+  infile="us-$geo.csv"
+  outfile="us-$geo.json"
+  csvtojson csv/$infile > $outfile
+  tar czf $outfile.tar.gz $outfile
+done
 
-while IFS=, read date state fips cases deaths;
-do
-    lines_read=$((lines_read+1))
-    if [ $lines_read -eq 1 ]; then
-      continue
-    elif [ $lines_read -eq 2 ]; then
-      delimiter=''
-    else
-      delimiter=','
-    fi
-  echo $delimiter $(convert_row) >> $tmpfile
-done < us-states.csv
-
-footer >> $tmpfile
-
-jq -r '.' $tmpfile > us-states.json
-tar czf us-states.json.tar.gz us-states.json
