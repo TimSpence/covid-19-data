@@ -1,25 +1,11 @@
 #!/usr/bin/env bash
 
-command -v jq > /dev/null 2>&1 || { echo "You should install jq"; exit 1; }
+function check_deps () {
+  command -v jq > /dev/null 2>&1 || { echo "You should install jq"; exit 1; }
+}
 
-tmpfile=$(mktemp /tmp/csv2json.XXXXXX)
-lines_read=0
-
-echo '{ "data": [' > $tmpfile
-
-while IFS=, read date state fips cases deaths;
-do
-    lines_read=$((lines_read+1))
-    #echo $lines_read
-    if [ $lines_read -eq 1 ]; then
-      continue
-    elif [ $lines_read -eq 2 ]; then
-      delimiter=''
-    else
-      delimiter=','
-    fi
-    cat<< EOF >> $tmpfile
-  $delimiter
+function convert_row () {
+  cat << EOF
   {
   "date" : "$date",
   "state" : "$state",
@@ -28,9 +14,36 @@ do
   "deaths" : $deaths
   }
 EOF
+}
+
+function header () {
+  echo '{ "data": ['
+}
+
+function footer () {
+  echo ']}'
+}
+
+check_deps
+tmpfile=$(mktemp /tmp/csv2json.XXXXXX)
+lines_read=0
+
+header > $tmpfile
+
+while IFS=, read date state fips cases deaths;
+do
+    lines_read=$((lines_read+1))
+    if [ $lines_read -eq 1 ]; then
+      continue
+    elif [ $lines_read -eq 2 ]; then
+      delimiter=''
+    else
+      delimiter=','
+    fi
+  echo $delimiter $(convert_row) >> $tmpfile
 done < us-states.csv
 
-echo ']}' >> $tmpfile
+footer >> $tmpfile
 
 jq -r '.' $tmpfile > us-states.json
 tar czf us-states.json.tar.gz us-states.json
