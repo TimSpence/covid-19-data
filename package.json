@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "d3": "^5.15.1"
+  },
+  "name": "covid-19-data",
+  "version": "1.0.0",
+  "description": "explore Covid-19 statistics through charts",
+  "main": "index.js",
+  "repository": "git@github.com:TimSpence/covid-19-data.git",
+  "author": "TimSpence <yogi.wan.kenobi@gmail.com>",
+  "license": "MIT"
+}
