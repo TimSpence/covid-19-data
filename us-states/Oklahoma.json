@@ -1,0 +1,310 @@
+[
+  {
+    "date": "2020-03-06",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 29,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 44,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 49,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 53,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 67,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 81,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 106,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 164,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 248,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 322,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 377,
+    "deaths": 15
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 429,
+    "deaths": 16
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 481,
+    "deaths": 17
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 566,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 719,
+    "deaths": 30
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 879,
+    "deaths": 34
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 988,
+    "deaths": 38
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1159,
+    "deaths": 42
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1252,
+    "deaths": 46
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1327,
+    "deaths": 51
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1472,
+    "deaths": 67
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1524,
+    "deaths": 79
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1684,
+    "deaths": 80
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1794,
+    "deaths": 88
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1868,
+    "deaths": 93
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 1970,
+    "deaths": 96
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2069,
+    "deaths": 98
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2184,
+    "deaths": 109
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2263,
+    "deaths": 123
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2357,
+    "deaths": 131
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2465,
+    "deaths": 136
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Oklahoma",
+    "fips": 40,
+    "cases": 2570,
+    "deaths": 139
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "date": "2020-03-11",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 24,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 49,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 56,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 73,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 84,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 87,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 95,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 120,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 137,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 153,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 166,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 187,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 200,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 212,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 221,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 230,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 239,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 253,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 261,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 270,
+    "deaths": 0
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 275,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 282,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 288,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 296,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 305,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 309,
+    "deaths": 2
+  }
+]

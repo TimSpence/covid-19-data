@@ -1,0 +1,310 @@
+[
+  {
+    "date": "2020-03-06",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 15,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 24,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 30,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 39,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 56,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 79,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 126,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 201,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 259,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 366,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 479,
+    "deaths": 14
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 656,
+    "deaths": 18
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 982,
+    "deaths": 26
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 1232,
+    "deaths": 31
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 1514,
+    "deaths": 32
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 1788,
+    "deaths": 35
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 2159,
+    "deaths": 50
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 2565,
+    "deaths": 65
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 3039,
+    "deaths": 78
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 3437,
+    "deaths": 102
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 3953,
+    "deaths": 116
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 4411,
+    "deaths": 127
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 4956,
+    "deaths": 141
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 5507,
+    "deaths": 173
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 5943,
+    "deaths": 203
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 6351,
+    "deaths": 246
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 6907,
+    "deaths": 300
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 7435,
+    "deaths": 330
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 7928,
+    "deaths": 343
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 8236,
+    "deaths": 350
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 8527,
+    "deaths": 387
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 8955,
+    "deaths": 436
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 9542,
+    "deaths": 477
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 10154,
+    "deaths": 519
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 10641,
+    "deaths": 545
+  }
+]

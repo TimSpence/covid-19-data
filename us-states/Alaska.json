@@ -1,0 +1,268 @@
+[
+  {
+    "date": "2020-03-12",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 36,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 42,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 59,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 69,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 85,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 102,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 114,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 119,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 133,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 143,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 146,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 156,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 169,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 185,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 189,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 211,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 224,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 233,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 244,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 255,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 270,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 275,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 283,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 291,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 298,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 307,
+    "deaths": 7
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Alaska",
+    "fips": 2,
+    "cases": 312,
+    "deaths": 7
+  }
+]

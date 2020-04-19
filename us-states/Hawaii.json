@@ -1,0 +1,310 @@
+[
+  {
+    "date": "2020-03-06",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 10,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 48,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 56,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 77,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 90,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 95,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 106,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 120,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 151,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 175,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 204,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 224,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 258,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 283,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 317,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 349,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 369,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 385,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 408,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 433,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 440,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 463,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 484,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 497,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 502,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 511,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 524,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 535,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 547,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 568,
+    "deaths": 9
+  }
+]

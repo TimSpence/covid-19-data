@@ -19,6 +19,7 @@ outputs these files:
     us-states.json
     us-states.json.tar.gz
 
+and outputs each state's json under `us-states/`.
 
 ## Example
 

@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2020-03-05",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 45,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 55,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 82,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 99,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 165,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 165,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 190,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 265,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 315,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 405,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 535,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 621,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 738,
+    "deaths": 14
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 920,
+    "deaths": 15
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1044,
+    "deaths": 18
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1113,
+    "deaths": 26
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1279,
+    "deaths": 32
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1458,
+    "deaths": 38
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1549,
+    "deaths": 43
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1758,
+    "deaths": 46
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1880,
+    "deaths": 46
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 1971,
+    "deaths": 58
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2101,
+    "deaths": 60
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2318,
+    "deaths": 80
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2456,
+    "deaths": 82
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2606,
+    "deaths": 86
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2720,
+    "deaths": 111
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 2860,
+    "deaths": 113
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3036,
+    "deaths": 114
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3137,
+    "deaths": 130
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3212,
+    "deaths": 137
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3321,
+    "deaths": 142
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3524,
+    "deaths": 151
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3626,
+    "deaths": 155
+  }
+]

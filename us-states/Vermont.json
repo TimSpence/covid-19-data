@@ -1,0 +1,303 @@
+[
+  {
+    "date": "2020-03-07",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 19,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 22,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 29,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 49,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 52,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 75,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 95,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 123,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 158,
+    "deaths": 9
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 184,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 211,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 235,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 256,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 293,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 321,
+    "deaths": 16
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 338,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 389,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 461,
+    "deaths": 20
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 512,
+    "deaths": 22
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 543,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 575,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 605,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 628,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 679,
+    "deaths": 24
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 711,
+    "deaths": 25
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 727,
+    "deaths": 27
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 748,
+    "deaths": 28
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 752,
+    "deaths": 29
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 759,
+    "deaths": 30
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 768,
+    "deaths": 35
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 779,
+    "deaths": 35
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 803,
+    "deaths": 37
+  }
+]

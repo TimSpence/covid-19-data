@@ -1,0 +1,338 @@
+[
+  {
+    "date": "2020-03-02",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-03",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-04",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-05",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 31,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 31,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 41,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 65,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 97,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 118,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 142,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 193,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 282,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 482,
+    "deaths": 14
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 552,
+    "deaths": 20
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 620,
+    "deaths": 25
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 800,
+    "deaths": 25
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 1097,
+    "deaths": 38
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 1387,
+    "deaths": 47
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 1643,
+    "deaths": 56
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2198,
+    "deaths": 64
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2447,
+    "deaths": 79
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 2683,
+    "deaths": 83
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 3032,
+    "deaths": 102
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 4117,
+    "deaths": 125
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 4748,
+    "deaths": 154
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 5444,
+    "deaths": 176
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 5967,
+    "deaths": 198
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 6383,
+    "deaths": 208
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 6742,
+    "deaths": 219
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 7558,
+    "deaths": 294
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 9156,
+    "deaths": 348
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 10204,
+    "deaths": 370
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 10885,
+    "deaths": 412
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 11859,
+    "deaths": 425
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 12261,
+    "deaths": 432
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 12103,
+    "deaths": 438
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 13125,
+    "deaths": 479
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 13913,
+    "deaths": 517
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 14583,
+    "deaths": 569
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 15644,
+    "deaths": 611
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 16658,
+    "deaths": 661
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Georgia",
+    "fips": 13,
+    "cases": 17014,
+    "deaths": 670
+  }
+]

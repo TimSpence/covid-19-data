@@ -1,0 +1,303 @@
+[
+  {
+    "date": "2020-03-07",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 21,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 35,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 73,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 93,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 130,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 183,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 255,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 377,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 507,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 671,
+    "deaths": 9
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 838,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 903,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1050,
+    "deaths": 13
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1351,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1581,
+    "deaths": 18
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 1834,
+    "deaths": 24
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 2113,
+    "deaths": 31
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 2291,
+    "deaths": 44
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 2367,
+    "deaths": 52
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 2722,
+    "deaths": 56
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 3037,
+    "deaths": 79
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 3327,
+    "deaths": 86
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 3539,
+    "deaths": 94
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 3799,
+    "deaths": 105
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4024,
+    "deaths": 116
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4160,
+    "deaths": 116
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4388,
+    "deaths": 136
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4686,
+    "deaths": 151
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 4895,
+    "deaths": 164
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5111,
+    "deaths": 170
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5283,
+    "deaths": 184
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5517,
+    "deaths": 194
+  }
+]

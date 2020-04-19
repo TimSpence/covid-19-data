@@ -1,0 +1,324 @@
+[
+  {
+    "date": "2020-03-04",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-05",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 15,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-11",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-12",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 29,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-13",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 50,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-14",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 75,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-15",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 98,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-16",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 176,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-17",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 268,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-18",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 427,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-19",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 735,
+    "deaths": 9
+  },
+  {
+    "date": "2020-03-20",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 896,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-21",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 1336,
+    "deaths": 16
+  },
+  {
+    "date": "2020-03-22",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 1914,
+    "deaths": 20
+  },
+  {
+    "date": "2020-03-23",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 2844,
+    "deaths": 27
+  },
+  {
+    "date": "2020-03-24",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 3675,
+    "deaths": 44
+  },
+  {
+    "date": "2020-03-25",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 4402,
+    "deaths": 62
+  },
+  {
+    "date": "2020-03-26",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 6876,
+    "deaths": 81
+  },
+  {
+    "date": "2020-03-27",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 8825,
+    "deaths": 108
+  },
+  {
+    "date": "2020-03-28",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 11124,
+    "deaths": 140
+  },
+  {
+    "date": "2020-03-29",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 13386,
+    "deaths": 161
+  },
+  {
+    "date": "2020-03-30",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 16636,
+    "deaths": 199
+  },
+  {
+    "date": "2020-03-31",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 18696,
+    "deaths": 267
+  },
+  {
+    "date": "2020-04-01",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 22255,
+    "deaths": 355
+  },
+  {
+    "date": "2020-04-02",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 25590,
+    "deaths": 539
+  },
+  {
+    "date": "2020-04-03",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 29895,
+    "deaths": 647
+  },
+  {
+    "date": "2020-04-04",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 34124,
+    "deaths": 847
+  },
+  {
+    "date": "2020-04-05",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 37505,
+    "deaths": 917
+  },
+  {
+    "date": "2020-04-06",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 41090,
+    "deaths": 1005
+  },
+  {
+    "date": "2020-04-07",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 44416,
+    "deaths": 1232
+  },
+  {
+    "date": "2020-04-08",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 47437,
+    "deaths": 1504
+  },
+  {
+    "date": "2020-04-09",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 51027,
+    "deaths": 1700
+  },
+  {
+    "date": "2020-04-10",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 54588,
+    "deaths": 1932
+  },
+  {
+    "date": "2020-04-11",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 58151,
+    "deaths": 2183
+  },
+  {
+    "date": "2020-04-12",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 61850,
+    "deaths": 2350
+  },
+  {
+    "date": "2020-04-13",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 64584,
+    "deaths": 2443
+  },
+  {
+    "date": "2020-04-14",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 68824,
+    "deaths": 2805
+  },
+  {
+    "date": "2020-04-15",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 71030,
+    "deaths": 3156
+  },
+  {
+    "date": "2020-04-16",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 75317,
+    "deaths": 3518
+  },
+  {
+    "date": "2020-04-17",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 78467,
+    "deaths": 3840
+  },
+  {
+    "date": "2020-04-18",
+    "state": "New Jersey",
+    "fips": 34,
+    "cases": 81420,
+    "deaths": 4070
+  }
+]

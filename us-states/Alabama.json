@@ -1,0 +1,261 @@
+[
+  {
+    "date": "2020-03-13",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 29,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 39,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 51,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 78,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 106,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 131,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 157,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 196,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 242,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 386,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 538,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 639,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 720,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 830,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 947,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 999,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 1106,
+    "deaths": 28
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 1270,
+    "deaths": 32
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 1535,
+    "deaths": 38
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 1633,
+    "deaths": 44
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 1841,
+    "deaths": 45
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 2006,
+    "deaths": 53
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 2197,
+    "deaths": 64
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 2499,
+    "deaths": 67
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 2838,
+    "deaths": 78
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 3008,
+    "deaths": 80
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 3262,
+    "deaths": 93
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 3583,
+    "deaths": 93
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 3805,
+    "deaths": 104
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 3953,
+    "deaths": 114
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 4241,
+    "deaths": 123
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 4404,
+    "deaths": 137
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 4572,
+    "deaths": 151
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Alabama",
+    "fips": 1,
+    "cases": 4723,
+    "deaths": 147
+  }
+]

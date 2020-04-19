@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2020-03-05",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 39,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 52,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 73,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 98,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 155,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 237,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 312,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 424,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 522,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 679,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 806,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 981,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1180,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1364,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1570,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 1721,
+    "deaths": 13
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 2049,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 2690,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 2869,
+    "deaths": 32
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 3032,
+    "deaths": 36
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 3265,
+    "deaths": 47
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 3538,
+    "deaths": 50
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 3753,
+    "deaths": 65
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4010,
+    "deaths": 72
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4246,
+    "deaths": 83
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4456,
+    "deaths": 95
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4793,
+    "deaths": 104
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 4983,
+    "deaths": 107
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 5144,
+    "deaths": 107
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 5483,
+    "deaths": 114
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 5654,
+    "deaths": 123
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 5878,
+    "deaths": 137
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 6090,
+    "deaths": 144
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 6438,
+    "deaths": 150
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Tennessee",
+    "fips": 47,
+    "cases": 6637,
+    "deaths": 152
+  }
+]

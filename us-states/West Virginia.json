@@ -1,0 +1,233 @@
+[
+  {
+    "date": "2020-03-17",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 16,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 39,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 51,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-26",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 76,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-27",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 96,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-28",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 113,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-29",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 124,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-30",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 145,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-31",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 162,
+    "deaths": 1
+  },
+  {
+    "date": "2020-04-01",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 191,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-02",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 217,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-03",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 242,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-04",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 282,
+    "deaths": 2
+  },
+  {
+    "date": "2020-04-05",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 324,
+    "deaths": 3
+  },
+  {
+    "date": "2020-04-06",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 345,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-07",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 412,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-08",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 483,
+    "deaths": 4
+  },
+  {
+    "date": "2020-04-09",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 524,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-10",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 537,
+    "deaths": 5
+  },
+  {
+    "date": "2020-04-11",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 593,
+    "deaths": 6
+  },
+  {
+    "date": "2020-04-12",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 615,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-13",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 638,
+    "deaths": 9
+  },
+  {
+    "date": "2020-04-14",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 697,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-15",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 725,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-16",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 739,
+    "deaths": 13
+  },
+  {
+    "date": "2020-04-17",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 776,
+    "deaths": 16
+  },
+  {
+    "date": "2020-04-18",
+    "state": "West Virginia",
+    "fips": 54,
+    "cases": 825,
+    "deaths": 18
+  }
+]

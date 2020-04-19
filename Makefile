@@ -3,7 +3,12 @@ all: csv json
 csv:
 	bin/fetch_csv counties states
 
-json:
-	bin/csv2json counties states
+counties:
+	bin/csv2json counties
+
+json: counties states
+
+states:
+	bin/process_states
 
 .PHONY: all csv json

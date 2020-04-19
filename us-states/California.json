@@ -1,0 +1,597 @@
+[
+  {
+    "date": "2020-01-25",
+    "state": "California",
+    "fips": 6,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-26",
+    "state": "California",
+    "fips": 6,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-27",
+    "state": "California",
+    "fips": 6,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-28",
+    "state": "California",
+    "fips": 6,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-29",
+    "state": "California",
+    "fips": 6,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-30",
+    "state": "California",
+    "fips": 6,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-01-31",
+    "state": "California",
+    "fips": 6,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-01",
+    "state": "California",
+    "fips": 6,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-02",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-03",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-04",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-05",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-06",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-07",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-08",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-09",
+    "state": "California",
+    "fips": 6,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-10",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-11",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-12",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-13",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-14",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-15",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-16",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-17",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-18",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-19",
+    "state": "California",
+    "fips": 6,
+    "cases": 7,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-20",
+    "state": "California",
+    "fips": 6,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-21",
+    "state": "California",
+    "fips": 6,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-22",
+    "state": "California",
+    "fips": 6,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-23",
+    "state": "California",
+    "fips": 6,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-24",
+    "state": "California",
+    "fips": 6,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-25",
+    "state": "California",
+    "fips": 6,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-26",
+    "state": "California",
+    "fips": 6,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-27",
+    "state": "California",
+    "fips": 6,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-28",
+    "state": "California",
+    "fips": 6,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-02-29",
+    "state": "California",
+    "fips": 6,
+    "cases": 28,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-01",
+    "state": "California",
+    "fips": 6,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-02",
+    "state": "California",
+    "fips": 6,
+    "cases": 38,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-03",
+    "state": "California",
+    "fips": 6,
+    "cases": 45,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-04",
+    "state": "California",
+    "fips": 6,
+    "cases": 55,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-05",
+    "state": "California",
+    "fips": 6,
+    "cases": 67,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-06",
+    "state": "California",
+    "fips": 6,
+    "cases": 81,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-07",
+    "state": "California",
+    "fips": 6,
+    "cases": 100,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-08",
+    "state": "California",
+    "fips": 6,
+    "cases": 112,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-09",
+    "state": "California",
+    "fips": 6,
+    "cases": 172,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-10",
+    "state": "California",
+    "fips": 6,
+    "cases": 179,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-11",
+    "state": "California",
+    "fips": 6,
+    "cases": 202,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-12",
+    "state": "California",
+    "fips": 6,
+    "cases": 252,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-13",
+    "state": "California",
+    "fips": 6,
+    "cases": 320,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-14",
+    "state": "California",
+    "fips": 6,
+    "cases": 381,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-15",
+    "state": "California",
+    "fips": 6,
+    "cases": 478,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-16",
+    "state": "California",
+    "fips": 6,
+    "cases": 588,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-17",
+    "state": "California",
+    "fips": 6,
+    "cases": 732,
+    "deaths": 14
+  },
+  {
+    "date": "2020-03-18",
+    "state": "California",
+    "fips": 6,
+    "cases": 893,
+    "deaths": 17
+  },
+  {
+    "date": "2020-03-19",
+    "state": "California",
+    "fips": 6,
+    "cases": 1067,
+    "deaths": 19
+  },
+  {
+    "date": "2020-03-20",
+    "state": "California",
+    "fips": 6,
+    "cases": 1283,
+    "deaths": 24
+  },
+  {
+    "date": "2020-03-21",
+    "state": "California",
+    "fips": 6,
+    "cases": 1544,
+    "deaths": 28
+  },
+  {
+    "date": "2020-03-22",
+    "state": "California",
+    "fips": 6,
+    "cases": 1851,
+    "deaths": 35
+  },
+  {
+    "date": "2020-03-23",
+    "state": "California",
+    "fips": 6,
+    "cases": 2240,
+    "deaths": 39
+  },
+  {
+    "date": "2020-03-24",
+    "state": "California",
+    "fips": 6,
+    "cases": 2644,
+    "deaths": 52
+  },
+  {
+    "date": "2020-03-25",
+    "state": "California",
+    "fips": 6,
+    "cases": 3183,
+    "deaths": 67
+  },
+  {
+    "date": "2020-03-26",
+    "state": "California",
+    "fips": 6,
+    "cases": 4060,
+    "deaths": 82
+  },
+  {
+    "date": "2020-03-27",
+    "state": "California",
+    "fips": 6,
+    "cases": 4914,
+    "deaths": 102
+  },
+  {
+    "date": "2020-03-28",
+    "state": "California",
+    "fips": 6,
+    "cases": 5565,
+    "deaths": 121
+  },
+  {
+    "date": "2020-03-29",
+    "state": "California",
+    "fips": 6,
+    "cases": 6266,
+    "deaths": 130
+  },
+  {
+    "date": "2020-03-30",
+    "state": "California",
+    "fips": 6,
+    "cases": 7421,
+    "deaths": 146
+  },
+  {
+    "date": "2020-03-31",
+    "state": "California",
+    "fips": 6,
+    "cases": 8582,
+    "deaths": 183
+  },
+  {
+    "date": "2020-04-01",
+    "state": "California",
+    "fips": 6,
+    "cases": 9816,
+    "deaths": 212
+  },
+  {
+    "date": "2020-04-02",
+    "state": "California",
+    "fips": 6,
+    "cases": 11190,
+    "deaths": 247
+  },
+  {
+    "date": "2020-04-03",
+    "state": "California",
+    "fips": 6,
+    "cases": 12569,
+    "deaths": 282
+  },
+  {
+    "date": "2020-04-04",
+    "state": "California",
+    "fips": 6,
+    "cases": 13796,
+    "deaths": 323
+  },
+  {
+    "date": "2020-04-05",
+    "state": "California",
+    "fips": 6,
+    "cases": 15076,
+    "deaths": 349
+  },
+  {
+    "date": "2020-04-06",
+    "state": "California",
+    "fips": 6,
+    "cases": 16284,
+    "deaths": 386
+  },
+  {
+    "date": "2020-04-07",
+    "state": "California",
+    "fips": 6,
+    "cases": 17540,
+    "deaths": 447
+  },
+  {
+    "date": "2020-04-08",
+    "state": "California",
+    "fips": 6,
+    "cases": 19043,
+    "deaths": 506
+  },
+  {
+    "date": "2020-04-09",
+    "state": "California",
+    "fips": 6,
+    "cases": 20191,
+    "deaths": 548
+  },
+  {
+    "date": "2020-04-10",
+    "state": "California",
+    "fips": 6,
+    "cases": 21366,
+    "deaths": 594
+  },
+  {
+    "date": "2020-04-11",
+    "state": "California",
+    "fips": 6,
+    "cases": 22421,
+    "deaths": 632
+  },
+  {
+    "date": "2020-04-12",
+    "state": "California",
+    "fips": 6,
+    "cases": 23323,
+    "deaths": 676
+  },
+  {
+    "date": "2020-04-13",
+    "state": "California",
+    "fips": 6,
+    "cases": 24334,
+    "deaths": 725
+  },
+  {
+    "date": "2020-04-14",
+    "state": "California",
+    "fips": 6,
+    "cases": 25758,
+    "deaths": 778
+  },
+  {
+    "date": "2020-04-15",
+    "state": "California",
+    "fips": 6,
+    "cases": 27107,
+    "deaths": 885
+  },
+  {
+    "date": "2020-04-16",
+    "state": "California",
+    "fips": 6,
+    "cases": 28142,
+    "deaths": 971
+  },
+  {
+    "date": "2020-04-17",
+    "state": "California",
+    "fips": 6,
+    "cases": 29398,
+    "deaths": 1050
+  },
+  {
+    "date": "2020-04-18",
+    "state": "California",
+    "fips": 6,
+    "cases": 30829,
+    "deaths": 1146
+  }
+]

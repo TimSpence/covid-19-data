@@ -1,0 +1,345 @@
+[
+  {
+    "date": "2020-03-01",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-02",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-03",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-04",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-05",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 21,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 23,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 33,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 44,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 44,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 66,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 83,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 106,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 124,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 132,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 165,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 203,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 239,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 294,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 408,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 488,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 566,
+    "deaths": 10
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 657,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 711,
+    "deaths": 14
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 806,
+    "deaths": 17
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 922,
+    "deaths": 25
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 1082,
+    "deaths": 27
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 1229,
+    "deaths": 30
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 1450,
+    "deaths": 35
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 1727,
+    "deaths": 43
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2015,
+    "deaths": 49
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2349,
+    "deaths": 56
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2665,
+    "deaths": 63
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 2976,
+    "deaths": 73
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3251,
+    "deaths": 80
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3529,
+    "deaths": 87
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 3838,
+    "deaths": 105
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 4177,
+    "deaths": 118
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 4491,
+    "deaths": 137
+  }
+]

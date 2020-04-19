@@ -1,0 +1,289 @@
+[
+  {
+    "date": "2020-03-09",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 36,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 77,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 103,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 137,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 196,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 280,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 392,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 537,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 763,
+    "deaths": 16
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 837,
+    "deaths": 20
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 1172,
+    "deaths": 34
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 1388,
+    "deaths": 46
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 1795,
+    "deaths": 65
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 2305,
+    "deaths": 83
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 2746,
+    "deaths": 119
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 3315,
+    "deaths": 137
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 3540,
+    "deaths": 152
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 4025,
+    "deaths": 186
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 5237,
+    "deaths": 240
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 6424,
+    "deaths": 273
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 9150,
+    "deaths": 310
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 10297,
+    "deaths": 370
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 12496,
+    "deaths": 412
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 13010,
+    "deaths": 477
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 14867,
+    "deaths": 512
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 16284,
+    "deaths": 582
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 17030,
+    "deaths": 652
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 18283,
+    "deaths": 702
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 19253,
+    "deaths": 755
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 20014,
+    "deaths": 806
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 20595,
+    "deaths": 840
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 21016,
+    "deaths": 884
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 21518,
+    "deaths": 1013
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 21951,
+    "deaths": 1103
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 22532,
+    "deaths": 1156
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 23118,
+    "deaths": 1213
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Louisiana",
+    "fips": 22,
+    "cases": 23580,
+    "deaths": 1267
+  }
+]

@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+#
+
+require 'csv'
+require 'json'
+
+infile = 'csv/us-states.csv'
+
+states = []
+CSV.foreach(infile, headers: true) do |row|
+  states << row['state']
+end
+
+table = CSV.parse(File.read(infile), headers: true, header_converters: :symbol, converters: :numeric)
+
+states.each do |state|
+  filtered_table = table.select { |row| row[:state] == state }
+  File.open("us-states/#{state}.json", "w") do |f|
+    f.write JSON.pretty_generate filtered_table.map { |row| row.to_hash }
+  end
+end
+
+

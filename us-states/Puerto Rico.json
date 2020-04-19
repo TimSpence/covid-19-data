@@ -1,0 +1,261 @@
+[
+  {
+    "date": "2020-03-13",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 14,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 21,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 23,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 31,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 39,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 51,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 64,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 79,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 100,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 127,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 174,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 239,
+    "deaths": 8
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 286,
+    "deaths": 11
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 316,
+    "deaths": 12
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 378,
+    "deaths": 15
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 452,
+    "deaths": 18
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 475,
+    "deaths": 20
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 513,
+    "deaths": 21
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 573,
+    "deaths": 23
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 620,
+    "deaths": 24
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 683,
+    "deaths": 33
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 725,
+    "deaths": 39
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 788,
+    "deaths": 42
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 897,
+    "deaths": 44
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 903,
+    "deaths": 45
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 923,
+    "deaths": 45
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 974,
+    "deaths": 51
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 1043,
+    "deaths": 56
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 1068,
+    "deaths": 58
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Puerto Rico",
+    "fips": 72,
+    "cases": 1118,
+    "deaths": 60
+  }
+]

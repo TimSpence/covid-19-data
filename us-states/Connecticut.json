@@ -1,0 +1,296 @@
+[
+  {
+    "date": "2020-03-08",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 20,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 41,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 68,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 96,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 159,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 194,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 223,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 327,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 415,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 618,
+    "deaths": 12
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 875,
+    "deaths": 19
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 1012,
+    "deaths": 21
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 1291,
+    "deaths": 27
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 1524,
+    "deaths": 33
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 1993,
+    "deaths": 34
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 2571,
+    "deaths": 36
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 3128,
+    "deaths": 69
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 3557,
+    "deaths": 85
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 3824,
+    "deaths": 112
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 4915,
+    "deaths": 132
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 5276,
+    "deaths": 165
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 5675,
+    "deaths": 189
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 6906,
+    "deaths": 206
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 7781,
+    "deaths": 277
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 8781,
+    "deaths": 335
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 9784,
+    "deaths": 380
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 10538,
+    "deaths": 448
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 11510,
+    "deaths": 494
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 12035,
+    "deaths": 554
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 13381,
+    "deaths": 602
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 13989,
+    "deaths": 671
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 14755,
+    "deaths": 868
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 15884,
+    "deaths": 971
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 16809,
+    "deaths": 1036
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Connecticut",
+    "fips": 9.0,
+    "cases": 17550,
+    "deaths": 1086
+  }
+]

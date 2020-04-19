@@ -1,0 +1,289 @@
+[
+  {
+    "date": "2020-03-09",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 4,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 26,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 37,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 50,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 67,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 90,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 120,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 169,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 247,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 351,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 444,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 564,
+    "deaths": 8
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 706,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 867,
+    "deaths": 15
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 1144,
+    "deaths": 22
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 1406,
+    "deaths": 25
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 1665,
+    "deaths": 30
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 1933,
+    "deaths": 40
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 2199,
+    "deaths": 55
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 2547,
+    "deaths": 65
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 2902,
+    "deaths": 81
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 3312,
+    "deaths": 91
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 3739,
+    "deaths": 102
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 4043,
+    "deaths": 119
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 4450,
+    "deaths": 142
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 4782,
+    "deaths": 167
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 5148,
+    "deaths": 193
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 5512,
+    "deaths": 213
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 5878,
+    "deaths": 231
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 6250,
+    "deaths": 247
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 6604,
+    "deaths": 253
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 6975,
+    "deaths": 274
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 7280,
+    "deaths": 324
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 7791,
+    "deaths": 361
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 8414,
+    "deaths": 389
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 9107,
+    "deaths": 418
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Ohio",
+    "fips": 39,
+    "cases": 10222,
+    "deaths": 451
+  }
+]

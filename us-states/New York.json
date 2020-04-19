@@ -1,0 +1,345 @@
+[
+  {
+    "date": "2020-03-01",
+    "state": "New York",
+    "fips": 36,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-02",
+    "state": "New York",
+    "fips": 36,
+    "cases": 1,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-03",
+    "state": "New York",
+    "fips": 36,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-04",
+    "state": "New York",
+    "fips": 36,
+    "cases": 11,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-05",
+    "state": "New York",
+    "fips": 36,
+    "cases": 22,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "New York",
+    "fips": 36,
+    "cases": 44,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "New York",
+    "fips": 36,
+    "cases": 89,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "New York",
+    "fips": 36,
+    "cases": 106,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "New York",
+    "fips": 36,
+    "cases": 142,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "New York",
+    "fips": 36,
+    "cases": 173,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "New York",
+    "fips": 36,
+    "cases": 217,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "New York",
+    "fips": 36,
+    "cases": 326,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "New York",
+    "fips": 36,
+    "cases": 421,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "New York",
+    "fips": 36,
+    "cases": 610,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-15",
+    "state": "New York",
+    "fips": 36,
+    "cases": 732,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-16",
+    "state": "New York",
+    "fips": 36,
+    "cases": 950,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-17",
+    "state": "New York",
+    "fips": 36,
+    "cases": 1374,
+    "deaths": 17
+  },
+  {
+    "date": "2020-03-18",
+    "state": "New York",
+    "fips": 36,
+    "cases": 2382,
+    "deaths": 27
+  },
+  {
+    "date": "2020-03-19",
+    "state": "New York",
+    "fips": 36,
+    "cases": 4152,
+    "deaths": 30
+  },
+  {
+    "date": "2020-03-20",
+    "state": "New York",
+    "fips": 36,
+    "cases": 7102,
+    "deaths": 57
+  },
+  {
+    "date": "2020-03-21",
+    "state": "New York",
+    "fips": 36,
+    "cases": 10356,
+    "deaths": 80
+  },
+  {
+    "date": "2020-03-22",
+    "state": "New York",
+    "fips": 36,
+    "cases": 15168,
+    "deaths": 122
+  },
+  {
+    "date": "2020-03-23",
+    "state": "New York",
+    "fips": 36,
+    "cases": 20875,
+    "deaths": 159
+  },
+  {
+    "date": "2020-03-24",
+    "state": "New York",
+    "fips": 36,
+    "cases": 25665,
+    "deaths": 218
+  },
+  {
+    "date": "2020-03-25",
+    "state": "New York",
+    "fips": 36,
+    "cases": 33066,
+    "deaths": 325
+  },
+  {
+    "date": "2020-03-26",
+    "state": "New York",
+    "fips": 36,
+    "cases": 38987,
+    "deaths": 432
+  },
+  {
+    "date": "2020-03-27",
+    "state": "New York",
+    "fips": 36,
+    "cases": 44635,
+    "deaths": 535
+  },
+  {
+    "date": "2020-03-28",
+    "state": "New York",
+    "fips": 36,
+    "cases": 53363,
+    "deaths": 782
+  },
+  {
+    "date": "2020-03-29",
+    "state": "New York",
+    "fips": 36,
+    "cases": 59568,
+    "deaths": 965
+  },
+  {
+    "date": "2020-03-30",
+    "state": "New York",
+    "fips": 36,
+    "cases": 67174,
+    "deaths": 1224
+  },
+  {
+    "date": "2020-03-31",
+    "state": "New York",
+    "fips": 36,
+    "cases": 75832,
+    "deaths": 1550
+  },
+  {
+    "date": "2020-04-01",
+    "state": "New York",
+    "fips": 36,
+    "cases": 83889,
+    "deaths": 1941
+  },
+  {
+    "date": "2020-04-02",
+    "state": "New York",
+    "fips": 36,
+    "cases": 92770,
+    "deaths": 2653
+  },
+  {
+    "date": "2020-04-03",
+    "state": "New York",
+    "fips": 36,
+    "cases": 102870,
+    "deaths": 2935
+  },
+  {
+    "date": "2020-04-04",
+    "state": "New York",
+    "fips": 36,
+    "cases": 114996,
+    "deaths": 3568
+  },
+  {
+    "date": "2020-04-05",
+    "state": "New York",
+    "fips": 36,
+    "cases": 122911,
+    "deaths": 4161
+  },
+  {
+    "date": "2020-04-06",
+    "state": "New York",
+    "fips": 36,
+    "cases": 130703,
+    "deaths": 4758
+  },
+  {
+    "date": "2020-04-07",
+    "state": "New York",
+    "fips": 36,
+    "cases": 140081,
+    "deaths": 5563
+  },
+  {
+    "date": "2020-04-08",
+    "state": "New York",
+    "fips": 36,
+    "cases": 149401,
+    "deaths": 6268
+  },
+  {
+    "date": "2020-04-09",
+    "state": "New York",
+    "fips": 36,
+    "cases": 159937,
+    "deaths": 7067
+  },
+  {
+    "date": "2020-04-10",
+    "state": "New York",
+    "fips": 36,
+    "cases": 170512,
+    "deaths": 7844
+  },
+  {
+    "date": "2020-04-11",
+    "state": "New York",
+    "fips": 36,
+    "cases": 180458,
+    "deaths": 8627
+  },
+  {
+    "date": "2020-04-12",
+    "state": "New York",
+    "fips": 36,
+    "cases": 188694,
+    "deaths": 9385
+  },
+  {
+    "date": "2020-04-13",
+    "state": "New York",
+    "fips": 36,
+    "cases": 195031,
+    "deaths": 10056
+  },
+  {
+    "date": "2020-04-14",
+    "state": "New York",
+    "fips": 36,
+    "cases": 202208,
+    "deaths": 10834
+  },
+  {
+    "date": "2020-04-15",
+    "state": "New York",
+    "fips": 36,
+    "cases": 213779,
+    "deaths": 11586
+  },
+  {
+    "date": "2020-04-16",
+    "state": "New York",
+    "fips": 36,
+    "cases": 222284,
+    "deaths": 12192
+  },
+  {
+    "date": "2020-04-17",
+    "state": "New York",
+    "fips": 36,
+    "cases": 229642,
+    "deaths": 12822
+  },
+  {
+    "date": "2020-04-18",
+    "state": "New York",
+    "fips": 36,
+    "cases": 236763,
+    "deaths": 13362
+  }
+]

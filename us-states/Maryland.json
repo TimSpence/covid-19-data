@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2020-03-05",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 3,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 5,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 6,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 9,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 13,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 18,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 27,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 32,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 39,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 57,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 85,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 108,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 150,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 195,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 245,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 290,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 349,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 423,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 581,
+    "deaths": 4
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 775,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 1066,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 1244,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 1414,
+    "deaths": 15
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 1662,
+    "deaths": 18
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 1985,
+    "deaths": 33
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 2331,
+    "deaths": 36
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 2758,
+    "deaths": 42
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 3125,
+    "deaths": 54
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 3609,
+    "deaths": 68
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 4045,
+    "deaths": 92
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 4371,
+    "deaths": 104
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 5529,
+    "deaths": 124
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 6185,
+    "deaths": 139
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 6968,
+    "deaths": 172
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 7694,
+    "deaths": 207
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 8225,
+    "deaths": 236
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 8936,
+    "deaths": 262
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 9472,
+    "deaths": 302
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 10032,
+    "deaths": 349
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 10784,
+    "deaths": 392
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 11572,
+    "deaths": 425
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 12308,
+    "deaths": 463
+  }
+]

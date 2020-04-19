@@ -1,0 +1,317 @@
+[
+  {
+    "date": "2020-03-05",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 2,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-06",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-07",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-08",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 8,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-09",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 12,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-10",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 17,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-11",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 34,
+    "deaths": 0
+  },
+  {
+    "date": "2020-03-12",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 49,
+    "deaths": 1
+  },
+  {
+    "date": "2020-03-13",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 78,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-14",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 103,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-15",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 136,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-16",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 161,
+    "deaths": 2
+  },
+  {
+    "date": "2020-03-17",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 183,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-18",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 216,
+    "deaths": 3
+  },
+  {
+    "date": "2020-03-19",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 278,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-20",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 364,
+    "deaths": 5
+  },
+  {
+    "date": "2020-03-21",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 475,
+    "deaths": 6
+  },
+  {
+    "date": "2020-03-22",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 591,
+    "deaths": 7
+  },
+  {
+    "date": "2020-03-23",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 721,
+    "deaths": 10
+  },
+  {
+    "date": "2020-03-24",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 912,
+    "deaths": 11
+  },
+  {
+    "date": "2020-03-25",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 1086,
+    "deaths": 19
+  },
+  {
+    "date": "2020-03-26",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 1432,
+    "deaths": 24
+  },
+  {
+    "date": "2020-03-27",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 1735,
+    "deaths": 31
+  },
+  {
+    "date": "2020-03-28",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 2061,
+    "deaths": 44
+  },
+  {
+    "date": "2020-03-29",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 2315,
+    "deaths": 47
+  },
+  {
+    "date": "2020-03-30",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 2628,
+    "deaths": 51
+  },
+  {
+    "date": "2020-03-31",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 2990,
+    "deaths": 69
+  },
+  {
+    "date": "2020-04-01",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 3346,
+    "deaths": 80
+  },
+  {
+    "date": "2020-04-02",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 3728,
+    "deaths": 96
+  },
+  {
+    "date": "2020-04-03",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 4182,
+    "deaths": 110
+  },
+  {
+    "date": "2020-04-04",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 4574,
+    "deaths": 126
+  },
+  {
+    "date": "2020-04-05",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 4950,
+    "deaths": 140
+  },
+  {
+    "date": "2020-04-06",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 5172,
+    "deaths": 150
+  },
+  {
+    "date": "2020-04-07",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 5429,
+    "deaths": 179
+  },
+  {
+    "date": "2020-04-08",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 5655,
+    "deaths": 192
+  },
+  {
+    "date": "2020-04-09",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 6202,
+    "deaths": 227
+  },
+  {
+    "date": "2020-04-10",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 6510,
+    "deaths": 253
+  },
+  {
+    "date": "2020-04-11",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 6893,
+    "deaths": 274
+  },
+  {
+    "date": "2020-04-12",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 7303,
+    "deaths": 290
+  },
+  {
+    "date": "2020-04-13",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 7691,
+    "deaths": 308
+  },
+  {
+    "date": "2020-04-14",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 7941,
+    "deaths": 329
+  },
+  {
+    "date": "2020-04-15",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 8280,
+    "deaths": 355
+  },
+  {
+    "date": "2020-04-16",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 8675,
+    "deaths": 374
+  },
+  {
+    "date": "2020-04-17",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 9047,
+    "deaths": 389
+  },
+  {
+    "date": "2020-04-18",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 9433,
+    "deaths": 409
+  }
+]
