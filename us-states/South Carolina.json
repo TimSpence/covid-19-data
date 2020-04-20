@@ -4,307 +4,395 @@
     "state": "South Carolina",
     "fips": 45,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "South Carolina",
     "fips": 45,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "South Carolina",
     "fips": 45,
     "cases": 7,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "South Carolina",
     "fips": 45,
     "cases": 9,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "South Carolina",
     "fips": 45,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "South Carolina",
     "fips": 45,
     "cases": 12,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "South Carolina",
     "fips": 45,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "South Carolina",
     "fips": 45,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "South Carolina",
     "fips": 45,
     "cases": 28,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 9,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "South Carolina",
     "fips": 45,
     "cases": 33,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 5,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-17",
     "state": "South Carolina",
     "fips": 45,
     "cases": 47,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "South Carolina",
     "fips": 45,
     "cases": 60,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "South Carolina",
     "fips": 45,
     "cases": 81,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "South Carolina",
     "fips": 45,
     "cases": 126,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 45,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-21",
     "state": "South Carolina",
     "fips": 45,
     "cases": 172,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 46,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "South Carolina",
     "fips": 45,
     "cases": 194,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 22,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "South Carolina",
     "fips": 45,
     "cases": 299,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 105,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-24",
     "state": "South Carolina",
     "fips": 45,
     "cases": 342,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 43,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-25",
     "state": "South Carolina",
     "fips": 45,
     "cases": 424,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 82,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "South Carolina",
     "fips": 45,
     "cases": 456,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 32,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-27",
     "state": "South Carolina",
     "fips": 45,
     "cases": 539,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 83,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-28",
     "state": "South Carolina",
     "fips": 45,
     "cases": 660,
-    "deaths": 15
+    "deaths": 15,
+    "new_cases": 121,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-29",
     "state": "South Carolina",
     "fips": 45,
     "cases": 774,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 114,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "South Carolina",
     "fips": 45,
     "cases": 925,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 151,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-31",
     "state": "South Carolina",
     "fips": 45,
     "cases": 1083,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 158,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-01",
     "state": "South Carolina",
     "fips": 45,
     "cases": 1293,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 210,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-02",
     "state": "South Carolina",
     "fips": 45,
     "cases": 1554,
-    "deaths": 31
+    "deaths": 31,
+    "new_cases": 261,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-03",
     "state": "South Carolina",
     "fips": 45,
     "cases": 1700,
-    "deaths": 34
+    "deaths": 34,
+    "new_cases": 146,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-04",
     "state": "South Carolina",
     "fips": 45,
     "cases": 1917,
-    "deaths": 40
+    "deaths": 40,
+    "new_cases": 217,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-05",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2049,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 132,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-06",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2232,
-    "deaths": 48
+    "deaths": 48,
+    "new_cases": 183,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-07",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2417,
-    "deaths": 51
+    "deaths": 51,
+    "new_cases": 185,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-08",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2552,
-    "deaths": 63
+    "deaths": 63,
+    "new_cases": 135,
+    "new_deaths": 12
   },
   {
     "date": "2020-04-09",
     "state": "South Carolina",
     "fips": 45,
     "cases": 2792,
-    "deaths": 67
+    "deaths": 67,
+    "new_cases": 240,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-10",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3065,
-    "deaths": 72
+    "deaths": 72,
+    "new_cases": 273,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-11",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3207,
-    "deaths": 80
+    "deaths": 80,
+    "new_cases": 142,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-12",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3319,
-    "deaths": 82
+    "deaths": 82,
+    "new_cases": 112,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-13",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3439,
-    "deaths": 87
+    "deaths": 87,
+    "new_cases": 120,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-14",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3553,
-    "deaths": 97
+    "deaths": 97,
+    "new_cases": 114,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-15",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3656,
-    "deaths": 107
+    "deaths": 107,
+    "new_cases": 103,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-16",
     "state": "South Carolina",
     "fips": 45,
     "cases": 3931,
-    "deaths": 109
+    "deaths": 109,
+    "new_cases": 275,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-17",
     "state": "South Carolina",
     "fips": 45,
     "cases": 4086,
-    "deaths": 116
+    "deaths": 116,
+    "new_cases": 155,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-18",
     "state": "South Carolina",
     "fips": 45,
     "cases": 4246,
-    "deaths": 119
+    "deaths": 119,
+    "new_cases": 160,
+    "new_deaths": 3
   }
 ]

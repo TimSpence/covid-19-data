@@ -4,601 +4,773 @@
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-25",
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-26",
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-27",
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-28",
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-29",
     "state": "Illinois",
     "fips": 17,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-30",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-01-31",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-01",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-02",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-03",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-04",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-05",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-06",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-07",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-08",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-09",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-10",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-11",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-12",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-13",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-14",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-15",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-16",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-17",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-18",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-19",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-20",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-21",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-22",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-23",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-24",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-25",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-26",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-27",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-28",
     "state": "Illinois",
     "fips": 17,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Illinois",
     "fips": 17,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Illinois",
     "fips": 17,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Illinois",
     "fips": 17,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Illinois",
     "fips": 17,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Illinois",
     "fips": 17,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Illinois",
     "fips": 17,
     "cases": 5,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Illinois",
     "fips": 17,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Illinois",
     "fips": 17,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Illinois",
     "fips": 17,
     "cases": 7,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Illinois",
     "fips": 17,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Illinois",
     "fips": 17,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Illinois",
     "fips": 17,
     "cases": 25,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Illinois",
     "fips": 17,
     "cases": 32,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Illinois",
     "fips": 17,
     "cases": 46,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Illinois",
     "fips": 17,
     "cases": 66,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 20,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Illinois",
     "fips": 17,
     "cases": 94,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 28,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Illinois",
     "fips": 17,
     "cases": 104,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 10,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Illinois",
     "fips": 17,
     "cases": 159,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 55,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-18",
     "state": "Illinois",
     "fips": 17,
     "cases": 286,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 127,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Illinois",
     "fips": 17,
     "cases": 420,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 134,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-20",
     "state": "Illinois",
     "fips": 17,
     "cases": 583,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 163,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-21",
     "state": "Illinois",
     "fips": 17,
     "cases": 751,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 168,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Illinois",
     "fips": 17,
     "cases": 1047,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 296,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-23",
     "state": "Illinois",
     "fips": 17,
     "cases": 1285,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 238,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-24",
     "state": "Illinois",
     "fips": 17,
     "cases": 1535,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 250,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-25",
     "state": "Illinois",
     "fips": 17,
     "cases": 1875,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 340,
+    "new_deaths": 5
   },
   {
     "date": "2020-03-26",
     "state": "Illinois",
     "fips": 17,
     "cases": 2538,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 663,
+    "new_deaths": 5
   },
   {
     "date": "2020-03-27",
     "state": "Illinois",
     "fips": 17,
     "cases": 3029,
-    "deaths": 37
+    "deaths": 37,
+    "new_cases": 491,
+    "new_deaths": 11
   },
   {
     "date": "2020-03-28",
     "state": "Illinois",
     "fips": 17,
     "cases": 3547,
-    "deaths": 50
+    "deaths": 50,
+    "new_cases": 518,
+    "new_deaths": 13
   },
   {
     "date": "2020-03-29",
     "state": "Illinois",
     "fips": 17,
     "cases": 4613,
-    "deaths": 70
+    "deaths": 70,
+    "new_cases": 1066,
+    "new_deaths": 20
   },
   {
     "date": "2020-03-30",
     "state": "Illinois",
     "fips": 17,
     "cases": 5070,
-    "deaths": 84
+    "deaths": 84,
+    "new_cases": 457,
+    "new_deaths": 14
   },
   {
     "date": "2020-03-31",
     "state": "Illinois",
     "fips": 17,
     "cases": 5994,
-    "deaths": 107
+    "deaths": 107,
+    "new_cases": 924,
+    "new_deaths": 23
   },
   {
     "date": "2020-04-01",
     "state": "Illinois",
     "fips": 17,
     "cases": 6980,
-    "deaths": 146
+    "deaths": 146,
+    "new_cases": 986,
+    "new_deaths": 39
   },
   {
     "date": "2020-04-02",
     "state": "Illinois",
     "fips": 17,
     "cases": 7695,
-    "deaths": 165
+    "deaths": 165,
+    "new_cases": 715,
+    "new_deaths": 19
   },
   {
     "date": "2020-04-03",
     "state": "Illinois",
     "fips": 17,
     "cases": 8904,
-    "deaths": 211
+    "deaths": 211,
+    "new_cases": 1209,
+    "new_deaths": 46
   },
   {
     "date": "2020-04-04",
     "state": "Illinois",
     "fips": 17,
     "cases": 10357,
-    "deaths": 248
+    "deaths": 248,
+    "new_cases": 1453,
+    "new_deaths": 37
   },
   {
     "date": "2020-04-05",
     "state": "Illinois",
     "fips": 17,
     "cases": 11276,
-    "deaths": 282
+    "deaths": 282,
+    "new_cases": 919,
+    "new_deaths": 34
   },
   {
     "date": "2020-04-06",
     "state": "Illinois",
     "fips": 17,
     "cases": 12262,
-    "deaths": 309
+    "deaths": 309,
+    "new_cases": 986,
+    "new_deaths": 27
   },
   {
     "date": "2020-04-07",
     "state": "Illinois",
     "fips": 17,
     "cases": 13549,
-    "deaths": 384
+    "deaths": 384,
+    "new_cases": 1287,
+    "new_deaths": 75
   },
   {
     "date": "2020-04-08",
     "state": "Illinois",
     "fips": 17,
     "cases": 15078,
-    "deaths": 464
+    "deaths": 464,
+    "new_cases": 1529,
+    "new_deaths": 80
   },
   {
     "date": "2020-04-09",
     "state": "Illinois",
     "fips": 17,
     "cases": 16422,
-    "deaths": 534
+    "deaths": 534,
+    "new_cases": 1344,
+    "new_deaths": 70
   },
   {
     "date": "2020-04-10",
     "state": "Illinois",
     "fips": 17,
     "cases": 17887,
-    "deaths": 607
+    "deaths": 607,
+    "new_cases": 1465,
+    "new_deaths": 73
   },
   {
     "date": "2020-04-11",
     "state": "Illinois",
     "fips": 17,
     "cases": 19180,
-    "deaths": 682
+    "deaths": 682,
+    "new_cases": 1293,
+    "new_deaths": 75
   },
   {
     "date": "2020-04-12",
     "state": "Illinois",
     "fips": 17,
     "cases": 20852,
-    "deaths": 727
+    "deaths": 727,
+    "new_cases": 1672,
+    "new_deaths": 45
   },
   {
     "date": "2020-04-13",
     "state": "Illinois",
     "fips": 17,
     "cases": 22025,
-    "deaths": 800
+    "deaths": 800,
+    "new_cases": 1173,
+    "new_deaths": 73
   },
   {
     "date": "2020-04-14",
     "state": "Illinois",
     "fips": 17,
     "cases": 23247,
-    "deaths": 878
+    "deaths": 878,
+    "new_cases": 1222,
+    "new_deaths": 78
   },
   {
     "date": "2020-04-15",
     "state": "Illinois",
     "fips": 17,
     "cases": 24593,
-    "deaths": 958
+    "deaths": 958,
+    "new_cases": 1346,
+    "new_deaths": 80
   },
   {
     "date": "2020-04-16",
     "state": "Illinois",
     "fips": 17,
     "cases": 25734,
-    "deaths": 1081
+    "deaths": 1081,
+    "new_cases": 1141,
+    "new_deaths": 123
   },
   {
     "date": "2020-04-17",
     "state": "Illinois",
     "fips": 17,
     "cases": 27575,
-    "deaths": 1142
+    "deaths": 1142,
+    "new_cases": 1841,
+    "new_deaths": 61
   },
   {
     "date": "2020-04-18",
     "state": "Illinois",
     "fips": 17,
     "cases": 29160,
-    "deaths": 1272
+    "deaths": 1272,
+    "new_cases": 1585,
+    "new_deaths": 130
   }
 ]

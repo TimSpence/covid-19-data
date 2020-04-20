@@ -4,244 +4,314 @@
     "state": "Guam",
     "fips": 66,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Guam",
     "fips": 66,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Guam",
     "fips": 66,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Guam",
     "fips": 66,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Guam",
     "fips": 66,
     "cases": 12,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Guam",
     "fips": 66,
     "cases": 14,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Guam",
     "fips": 66,
     "cases": 15,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Guam",
     "fips": 66,
     "cases": 27,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 12,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-23",
     "state": "Guam",
     "fips": 66,
     "cases": 29,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Guam",
     "fips": 66,
     "cases": 32,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Guam",
     "fips": 66,
     "cases": 32,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Guam",
     "fips": 66,
     "cases": 49,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 17,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "Guam",
     "fips": 66,
     "cases": 53,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-28",
     "state": "Guam",
     "fips": 66,
     "cases": 57,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Guam",
     "fips": 66,
     "cases": 58,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Guam",
     "fips": 66,
     "cases": 60,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-31",
     "state": "Guam",
     "fips": 66,
     "cases": 139,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 79,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "Guam",
     "fips": 66,
     "cases": 147,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 8,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "Guam",
     "fips": 66,
     "cases": 152,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-03",
     "state": "Guam",
     "fips": 66,
     "cases": 154,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 2,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-04",
     "state": "Guam",
     "fips": 66,
     "cases": 223,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 69,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-05",
     "state": "Guam",
     "fips": 66,
     "cases": 265,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 42,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Guam",
     "fips": 66,
     "cases": 266,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-07",
     "state": "Guam",
     "fips": 66,
     "cases": 274,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-08",
     "state": "Guam",
     "fips": 66,
     "cases": 409,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 135,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-09",
     "state": "Guam",
     "fips": 66,
     "cases": 542,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 133,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "Guam",
     "fips": 66,
     "cases": 577,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 35,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-11",
     "state": "Guam",
     "fips": 66,
     "cases": 681,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 104,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-12",
     "state": "Guam",
     "fips": 66,
     "cases": 716,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 35,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "Guam",
     "fips": 66,
     "cases": 719,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 3,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-14",
     "state": "Guam",
     "fips": 66,
     "cases": 721,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-15",
     "state": "Guam",
     "fips": 66,
     "cases": 750,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 29,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-16",
     "state": "Guam",
     "fips": 66,
     "cases": 790,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 40,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-17",
     "state": "Guam",
     "fips": 66,
     "cases": 796,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-18",
     "state": "Guam",
     "fips": 66,
     "cases": 805,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 9,
+    "new_deaths": 0
   }
 ]

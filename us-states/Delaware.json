@@ -4,272 +4,350 @@
     "state": "Delaware",
     "fips": 10,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Delaware",
     "fips": 10,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Delaware",
     "fips": 10,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Delaware",
     "fips": 10,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Delaware",
     "fips": 10,
     "cases": 7,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Delaware",
     "fips": 10,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Delaware",
     "fips": 10,
     "cases": 16,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Delaware",
     "fips": 10,
     "cases": 26,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 10,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Delaware",
     "fips": 10,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Delaware",
     "fips": 10,
     "cases": 39,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 9,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Delaware",
     "fips": 10,
     "cases": 45,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Delaware",
     "fips": 10,
     "cases": 56,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Delaware",
     "fips": 10,
     "cases": 87,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 31,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Delaware",
     "fips": 10,
     "cases": 104,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 17,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Delaware",
     "fips": 10,
     "cases": 119,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Delaware",
     "fips": 10,
     "cases": 143,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 24,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-27",
     "state": "Delaware",
     "fips": 10,
     "cases": 165,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 22,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-28",
     "state": "Delaware",
     "fips": 10,
     "cases": 214,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 49,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-29",
     "state": "Delaware",
     "fips": 10,
     "cases": 232,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 18,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "Delaware",
     "fips": 10,
     "cases": 264,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 32,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-31",
     "state": "Delaware",
     "fips": 10,
     "cases": 319,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 55,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-01",
     "state": "Delaware",
     "fips": 10,
     "cases": 368,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 49,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "Delaware",
     "fips": 10,
     "cases": 393,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 25,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-03",
     "state": "Delaware",
     "fips": 10,
     "cases": 450,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 57,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-04",
     "state": "Delaware",
     "fips": 10,
     "cases": 593,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 143,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-05",
     "state": "Delaware",
     "fips": 10,
     "cases": 673,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 80,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Delaware",
     "fips": 10,
     "cases": 783,
-    "deaths": 15
+    "deaths": 15,
+    "new_cases": 110,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-07",
     "state": "Delaware",
     "fips": 10,
     "cases": 928,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 145,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-08",
     "state": "Delaware",
     "fips": 10,
     "cases": 1116,
-    "deaths": 19
+    "deaths": 19,
+    "new_cases": 188,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-09",
     "state": "Delaware",
     "fips": 10,
     "cases": 1209,
-    "deaths": 23
+    "deaths": 23,
+    "new_cases": 93,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-10",
     "state": "Delaware",
     "fips": 10,
     "cases": 1326,
-    "deaths": 32
+    "deaths": 32,
+    "new_cases": 117,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-11",
     "state": "Delaware",
     "fips": 10,
     "cases": 1479,
-    "deaths": 33
+    "deaths": 33,
+    "new_cases": 153,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-12",
     "state": "Delaware",
     "fips": 10,
     "cases": 1625,
-    "deaths": 35
+    "deaths": 35,
+    "new_cases": 146,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-13",
     "state": "Delaware",
     "fips": 10,
     "cases": 1761,
-    "deaths": 41
+    "deaths": 41,
+    "new_cases": 136,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-14",
     "state": "Delaware",
     "fips": 10,
     "cases": 1926,
-    "deaths": 43
+    "deaths": 43,
+    "new_cases": 165,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-15",
     "state": "Delaware",
     "fips": 10,
     "cases": 2014,
-    "deaths": 46
+    "deaths": 46,
+    "new_cases": 88,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-16",
     "state": "Delaware",
     "fips": 10,
     "cases": 2075,
-    "deaths": 52
+    "deaths": 52,
+    "new_cases": 61,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-17",
     "state": "Delaware",
     "fips": 10,
     "cases": 2323,
-    "deaths": 61
+    "deaths": 61,
+    "new_cases": 248,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-18",
     "state": "Delaware",
     "fips": 10,
     "cases": 2538,
-    "deaths": 67
+    "deaths": 67,
+    "new_cases": 215,
+    "new_deaths": 6
   }
 ]

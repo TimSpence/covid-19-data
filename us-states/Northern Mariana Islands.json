@@ -4,153 +4,197 @@
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-31",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-01",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 6,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 4,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-03",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-04",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-05",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-07",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 8,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-08",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-09",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-11",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-12",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 11,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-14",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 13,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-15",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 13,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-16",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 13,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-17",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 14,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-18",
     "state": "Northern Mariana Islands",
     "fips": 69,
     "cases": 14,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   }
 ]

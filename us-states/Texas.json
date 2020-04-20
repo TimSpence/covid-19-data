@@ -4,468 +4,602 @@
     "state": "Texas",
     "fips": 48,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-13",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-14",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-15",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-16",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-17",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-18",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-19",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-20",
     "state": "Texas",
     "fips": 48,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-21",
     "state": "Texas",
     "fips": 48,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-22",
     "state": "Texas",
     "fips": 48,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-23",
     "state": "Texas",
     "fips": 48,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-24",
     "state": "Texas",
     "fips": 48,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-25",
     "state": "Texas",
     "fips": 48,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-26",
     "state": "Texas",
     "fips": 48,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-27",
     "state": "Texas",
     "fips": 48,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-28",
     "state": "Texas",
     "fips": 48,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Texas",
     "fips": 48,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Texas",
     "fips": 48,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Texas",
     "fips": 48,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Texas",
     "fips": 48,
     "cases": 11,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Texas",
     "fips": 48,
     "cases": 12,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Texas",
     "fips": 48,
     "cases": 16,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Texas",
     "fips": 48,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Texas",
     "fips": 48,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Texas",
     "fips": 48,
     "cases": 23,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Texas",
     "fips": 48,
     "cases": 24,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Texas",
     "fips": 48,
     "cases": 31,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Texas",
     "fips": 48,
     "cases": 33,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Texas",
     "fips": 48,
     "cases": 41,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Texas",
     "fips": 48,
     "cases": 58,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 17,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Texas",
     "fips": 48,
     "cases": 69,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Texas",
     "fips": 48,
     "cases": 80,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Texas",
     "fips": 48,
     "cases": 87,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 7,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-17",
     "state": "Texas",
     "fips": 48,
     "cases": 106,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 19,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Texas",
     "fips": 48,
     "cases": 166,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 60,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-19",
     "state": "Texas",
     "fips": 48,
     "cases": 248,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 82,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-20",
     "state": "Texas",
     "fips": 48,
     "cases": 377,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 129,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-21",
     "state": "Texas",
     "fips": 48,
     "cases": 547,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 170,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Texas",
     "fips": 48,
     "cases": 632,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 85,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-23",
     "state": "Texas",
     "fips": 48,
     "cases": 728,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 96,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Texas",
     "fips": 48,
     "cases": 857,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 129,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-25",
     "state": "Texas",
     "fips": 48,
     "cases": 1119,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 262,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-26",
     "state": "Texas",
     "fips": 48,
     "cases": 1543,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 424,
+    "new_deaths": 9
   },
   {
     "date": "2020-03-27",
     "state": "Texas",
     "fips": 48,
     "cases": 1942,
-    "deaths": 23
+    "deaths": 23,
+    "new_cases": 399,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-28",
     "state": "Texas",
     "fips": 48,
     "cases": 2161,
-    "deaths": 29
+    "deaths": 29,
+    "new_cases": 219,
+    "new_deaths": 6
   },
   {
     "date": "2020-03-29",
     "state": "Texas",
     "fips": 48,
     "cases": 2712,
-    "deaths": 35
+    "deaths": 35,
+    "new_cases": 551,
+    "new_deaths": 6
   },
   {
     "date": "2020-03-30",
     "state": "Texas",
     "fips": 48,
     "cases": 3043,
-    "deaths": 46
+    "deaths": 46,
+    "new_cases": 331,
+    "new_deaths": 11
   },
   {
     "date": "2020-03-31",
     "state": "Texas",
     "fips": 48,
     "cases": 3576,
-    "deaths": 57
+    "deaths": 57,
+    "new_cases": 533,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-01",
     "state": "Texas",
     "fips": 48,
     "cases": 4261,
-    "deaths": 63
+    "deaths": 63,
+    "new_cases": 685,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-02",
     "state": "Texas",
     "fips": 48,
     "cases": 4880,
-    "deaths": 79
+    "deaths": 79,
+    "new_cases": 619,
+    "new_deaths": 16
   },
   {
     "date": "2020-04-03",
     "state": "Texas",
     "fips": 48,
     "cases": 5669,
-    "deaths": 97
+    "deaths": 97,
+    "new_cases": 789,
+    "new_deaths": 18
   },
   {
     "date": "2020-04-04",
     "state": "Texas",
     "fips": 48,
     "cases": 6566,
-    "deaths": 124
+    "deaths": 124,
+    "new_cases": 897,
+    "new_deaths": 27
   },
   {
     "date": "2020-04-05",
     "state": "Texas",
     "fips": 48,
     "cases": 7091,
-    "deaths": 136
+    "deaths": 136,
+    "new_cases": 525,
+    "new_deaths": 12
   },
   {
     "date": "2020-04-06",
     "state": "Texas",
     "fips": 48,
     "cases": 8104,
-    "deaths": 159
+    "deaths": 159,
+    "new_cases": 1013,
+    "new_deaths": 23
   },
   {
     "date": "2020-04-07",
     "state": "Texas",
     "fips": 48,
     "cases": 8968,
-    "deaths": 177
+    "deaths": 177,
+    "new_cases": 864,
+    "new_deaths": 18
   },
   {
     "date": "2020-04-08",
     "state": "Texas",
     "fips": 48,
     "cases": 9897,
-    "deaths": 195
+    "deaths": 195,
+    "new_cases": 929,
+    "new_deaths": 18
   },
   {
     "date": "2020-04-09",
     "state": "Texas",
     "fips": 48,
     "cases": 11372,
-    "deaths": 228
+    "deaths": 228,
+    "new_cases": 1475,
+    "new_deaths": 33
   },
   {
     "date": "2020-04-10",
     "state": "Texas",
     "fips": 48,
     "cases": 12290,
-    "deaths": 246
+    "deaths": 246,
+    "new_cases": 918,
+    "new_deaths": 18
   },
   {
     "date": "2020-04-11",
     "state": "Texas",
     "fips": 48,
     "cases": 13208,
-    "deaths": 265
+    "deaths": 265,
+    "new_cases": 918,
+    "new_deaths": 19
   },
   {
     "date": "2020-04-12",
     "state": "Texas",
     "fips": 48,
     "cases": 13776,
-    "deaths": 288
+    "deaths": 288,
+    "new_cases": 568,
+    "new_deaths": 23
   },
   {
     "date": "2020-04-13",
     "state": "Texas",
     "fips": 48,
     "cases": 14487,
-    "deaths": 320
+    "deaths": 320,
+    "new_cases": 711,
+    "new_deaths": 32
   },
   {
     "date": "2020-04-14",
     "state": "Texas",
     "fips": 48,
     "cases": 15303,
-    "deaths": 365
+    "deaths": 365,
+    "new_cases": 816,
+    "new_deaths": 45
   },
   {
     "date": "2020-04-15",
     "state": "Texas",
     "fips": 48,
     "cases": 16106,
-    "deaths": 395
+    "deaths": 395,
+    "new_cases": 803,
+    "new_deaths": 30
   },
   {
     "date": "2020-04-16",
     "state": "Texas",
     "fips": 48,
     "cases": 16928,
-    "deaths": 428
+    "deaths": 428,
+    "new_cases": 822,
+    "new_deaths": 33
   },
   {
     "date": "2020-04-17",
     "state": "Texas",
     "fips": 48,
     "cases": 18131,
-    "deaths": 461
+    "deaths": 461,
+    "new_cases": 1203,
+    "new_deaths": 33
   },
   {
     "date": "2020-04-18",
     "state": "Texas",
     "fips": 48,
     "cases": 18927,
-    "deaths": 487
+    "deaths": 487,
+    "new_cases": 796,
+    "new_deaths": 26
   }
 ]

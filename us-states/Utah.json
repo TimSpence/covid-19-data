@@ -4,377 +4,485 @@
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-26",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-27",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-28",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Utah",
     "fips": 49,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Utah",
     "fips": 49,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Utah",
     "fips": 49,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Utah",
     "fips": 49,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Utah",
     "fips": 49,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Utah",
     "fips": 49,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Utah",
     "fips": 49,
     "cases": 5,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Utah",
     "fips": 49,
     "cases": 7,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Utah",
     "fips": 49,
     "cases": 7,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Utah",
     "fips": 49,
     "cases": 21,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Utah",
     "fips": 49,
     "cases": 29,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Utah",
     "fips": 49,
     "cases": 40,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Utah",
     "fips": 49,
     "cases": 51,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Utah",
     "fips": 49,
     "cases": 65,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Utah",
     "fips": 49,
     "cases": 80,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Utah",
     "fips": 49,
     "cases": 112,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 32,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Utah",
     "fips": 49,
     "cases": 138,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 26,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Utah",
     "fips": 49,
     "cases": 182,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 44,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-23",
     "state": "Utah",
     "fips": 49,
     "cases": 257,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 75,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Utah",
     "fips": 49,
     "cases": 298,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 41,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Utah",
     "fips": 49,
     "cases": 346,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 48,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Utah",
     "fips": 49,
     "cases": 402,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 56,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "Utah",
     "fips": 49,
     "cases": 480,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 78,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-28",
     "state": "Utah",
     "fips": 49,
     "cases": 608,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 128,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Utah",
     "fips": 49,
     "cases": 719,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 111,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Utah",
     "fips": 49,
     "cases": 806,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 87,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-31",
     "state": "Utah",
     "fips": 49,
     "cases": 887,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 81,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "Utah",
     "fips": 49,
     "cases": 1012,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 125,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-02",
     "state": "Utah",
     "fips": 49,
     "cases": 1074,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 62,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-03",
     "state": "Utah",
     "fips": 49,
     "cases": 1260,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 186,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-04",
     "state": "Utah",
     "fips": 49,
     "cases": 1428,
-    "deaths": 8
+    "deaths": 8,
+    "new_cases": 168,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-05",
     "state": "Utah",
     "fips": 49,
     "cases": 1605,
-    "deaths": 8
+    "deaths": 8,
+    "new_cases": 177,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Utah",
     "fips": 49,
     "cases": 1675,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 70,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-07",
     "state": "Utah",
     "fips": 49,
     "cases": 1752,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 77,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-08",
     "state": "Utah",
     "fips": 49,
     "cases": 1875,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 123,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-09",
     "state": "Utah",
     "fips": 49,
     "cases": 1980,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 105,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "Utah",
     "fips": 49,
     "cases": 2103,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 123,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-11",
     "state": "Utah",
     "fips": 49,
     "cases": 2206,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 103,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-12",
     "state": "Utah",
     "fips": 49,
     "cases": 2303,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 97,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "Utah",
     "fips": 49,
     "cases": 2363,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 60,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-14",
     "state": "Utah",
     "fips": 49,
     "cases": 2418,
-    "deaths": 19
+    "deaths": 19,
+    "new_cases": 55,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-15",
     "state": "Utah",
     "fips": 49,
     "cases": 2549,
-    "deaths": 20
+    "deaths": 20,
+    "new_cases": 131,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-16",
     "state": "Utah",
     "fips": 49,
     "cases": 2683,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 134,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-17",
     "state": "Utah",
     "fips": 49,
     "cases": 2813,
-    "deaths": 23
+    "deaths": 23,
+    "new_cases": 130,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-18",
     "state": "Utah",
     "fips": 49,
     "cases": 2942,
-    "deaths": 25
+    "deaths": 25,
+    "new_cases": 129,
+    "new_deaths": 2
   }
 ]

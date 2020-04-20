@@ -4,356 +4,458 @@
     "state": "Oregon",
     "fips": 41,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Oregon",
     "fips": 41,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Oregon",
     "fips": 41,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Oregon",
     "fips": 41,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Oregon",
     "fips": 41,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Oregon",
     "fips": 41,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Oregon",
     "fips": 41,
     "cases": 14,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Oregon",
     "fips": 41,
     "cases": 20,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Oregon",
     "fips": 41,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 10,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Oregon",
     "fips": 41,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Oregon",
     "fips": 41,
     "cases": 36,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 6,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-15",
     "state": "Oregon",
     "fips": 41,
     "cases": 39,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Oregon",
     "fips": 41,
     "cases": 46,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Oregon",
     "fips": 41,
     "cases": 66,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 20,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-18",
     "state": "Oregon",
     "fips": 41,
     "cases": 74,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 8,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-19",
     "state": "Oregon",
     "fips": 41,
     "cases": 87,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Oregon",
     "fips": 41,
     "cases": 114,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 27,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Oregon",
     "fips": 41,
     "cases": 137,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 23,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Oregon",
     "fips": 41,
     "cases": 161,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 24,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-23",
     "state": "Oregon",
     "fips": 41,
     "cases": 191,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 30,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Oregon",
     "fips": 41,
     "cases": 209,
-    "deaths": 8
+    "deaths": 8,
+    "new_cases": 18,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-25",
     "state": "Oregon",
     "fips": 41,
     "cases": 266,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 57,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-26",
     "state": "Oregon",
     "fips": 41,
     "cases": 316,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 50,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-27",
     "state": "Oregon",
     "fips": 41,
     "cases": 414,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 98,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-28",
     "state": "Oregon",
     "fips": 41,
     "cases": 479,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 65,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-29",
     "state": "Oregon",
     "fips": 41,
     "cases": 548,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 69,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Oregon",
     "fips": 41,
     "cases": 606,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 58,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-31",
     "state": "Oregon",
     "fips": 41,
     "cases": 690,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 84,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-01",
     "state": "Oregon",
     "fips": 41,
     "cases": 736,
-    "deaths": 19
+    "deaths": 19,
+    "new_cases": 46,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "Oregon",
     "fips": 41,
     "cases": 826,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 90,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-03",
     "state": "Oregon",
     "fips": 41,
     "cases": 899,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 73,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-04",
     "state": "Oregon",
     "fips": 41,
     "cases": 999,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 100,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-05",
     "state": "Oregon",
     "fips": 41,
     "cases": 1068,
-    "deaths": 27
+    "deaths": 27,
+    "new_cases": 69,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-06",
     "state": "Oregon",
     "fips": 41,
     "cases": 1132,
-    "deaths": 29
+    "deaths": 29,
+    "new_cases": 64,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-07",
     "state": "Oregon",
     "fips": 41,
     "cases": 1181,
-    "deaths": 33
+    "deaths": 33,
+    "new_cases": 49,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-08",
     "state": "Oregon",
     "fips": 41,
     "cases": 1239,
-    "deaths": 38
+    "deaths": 38,
+    "new_cases": 58,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-09",
     "state": "Oregon",
     "fips": 41,
     "cases": 1321,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 82,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-10",
     "state": "Oregon",
     "fips": 41,
     "cases": 1371,
-    "deaths": 48
+    "deaths": 48,
+    "new_cases": 50,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-11",
     "state": "Oregon",
     "fips": 41,
     "cases": 1447,
-    "deaths": 51
+    "deaths": 51,
+    "new_cases": 76,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-12",
     "state": "Oregon",
     "fips": 41,
     "cases": 1527,
-    "deaths": 52
+    "deaths": 52,
+    "new_cases": 80,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-13",
     "state": "Oregon",
     "fips": 41,
     "cases": 1584,
-    "deaths": 53
+    "deaths": 53,
+    "new_cases": 57,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-14",
     "state": "Oregon",
     "fips": 41,
     "cases": 1633,
-    "deaths": 55
+    "deaths": 55,
+    "new_cases": 49,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-15",
     "state": "Oregon",
     "fips": 41,
     "cases": 1663,
-    "deaths": 58
+    "deaths": 58,
+    "new_cases": 30,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-16",
     "state": "Oregon",
     "fips": 41,
     "cases": 1736,
-    "deaths": 64
+    "deaths": 64,
+    "new_cases": 73,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-17",
     "state": "Oregon",
     "fips": 41,
     "cases": 1785,
-    "deaths": 70
+    "deaths": 70,
+    "new_cases": 49,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-18",
     "state": "Oregon",
     "fips": 41,
     "cases": 1844,
-    "deaths": 72
+    "deaths": 72,
+    "new_cases": 59,
+    "new_deaths": 2
   }
 ]

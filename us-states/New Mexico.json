@@ -4,272 +4,350 @@
     "state": "New Mexico",
     "fips": 35,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "New Mexico",
     "fips": 35,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "New Mexico",
     "fips": 35,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "New Mexico",
     "fips": 35,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "New Mexico",
     "fips": 35,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "New Mexico",
     "fips": 35,
     "cases": 21,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "New Mexico",
     "fips": 35,
     "cases": 23,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "New Mexico",
     "fips": 35,
     "cases": 28,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "New Mexico",
     "fips": 35,
     "cases": 35,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "New Mexico",
     "fips": 35,
     "cases": 43,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "New Mexico",
     "fips": 35,
     "cases": 57,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "New Mexico",
     "fips": 35,
     "cases": 65,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "New Mexico",
     "fips": 35,
     "cases": 83,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 18,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "New Mexico",
     "fips": 35,
     "cases": 100,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 17,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "New Mexico",
     "fips": 35,
     "cases": 112,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 12,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-26",
     "state": "New Mexico",
     "fips": 35,
     "cases": 136,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 24,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "New Mexico",
     "fips": 35,
     "cases": 191,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 55,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-28",
     "state": "New Mexico",
     "fips": 35,
     "cases": 208,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 17,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-29",
     "state": "New Mexico",
     "fips": 35,
     "cases": 237,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 29,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "New Mexico",
     "fips": 35,
     "cases": 281,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 44,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-31",
     "state": "New Mexico",
     "fips": 35,
     "cases": 315,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 34,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "New Mexico",
     "fips": 35,
     "cases": 363,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 48,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "New Mexico",
     "fips": 35,
     "cases": 403,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 40,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-03",
     "state": "New Mexico",
     "fips": 35,
     "cases": 495,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 92,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-04",
     "state": "New Mexico",
     "fips": 35,
     "cases": 543,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 48,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-05",
     "state": "New Mexico",
     "fips": 35,
     "cases": 624,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 81,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-06",
     "state": "New Mexico",
     "fips": 35,
     "cases": 686,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 62,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-07",
     "state": "New Mexico",
     "fips": 35,
     "cases": 794,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 108,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-08",
     "state": "New Mexico",
     "fips": 35,
     "cases": 865,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 71,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-09",
     "state": "New Mexico",
     "fips": 35,
     "cases": 989,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 124,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-10",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1091,
-    "deaths": 19
+    "deaths": 19,
+    "new_cases": 102,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-11",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1174,
-    "deaths": 20
+    "deaths": 20,
+    "new_cases": 83,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-12",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1245,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 71,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-13",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1345,
-    "deaths": 31
+    "deaths": 31,
+    "new_cases": 100,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-14",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1407,
-    "deaths": 36
+    "deaths": 36,
+    "new_cases": 62,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-15",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1484,
-    "deaths": 36
+    "deaths": 36,
+    "new_cases": 77,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-16",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1597,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 113,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-17",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1711,
-    "deaths": 51
+    "deaths": 51,
+    "new_cases": 114,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-18",
     "state": "New Mexico",
     "fips": 35,
     "cases": 1798,
-    "deaths": 53
+    "deaths": 53,
+    "new_cases": 87,
+    "new_deaths": 2
   }
 ]

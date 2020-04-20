@@ -4,307 +4,395 @@
     "state": "Minnesota",
     "fips": 27,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Minnesota",
     "fips": 27,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Minnesota",
     "fips": 27,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Minnesota",
     "fips": 27,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Minnesota",
     "fips": 27,
     "cases": 5,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Minnesota",
     "fips": 27,
     "cases": 9,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Minnesota",
     "fips": 27,
     "cases": 14,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Minnesota",
     "fips": 27,
     "cases": 21,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Minnesota",
     "fips": 27,
     "cases": 35,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Minnesota",
     "fips": 27,
     "cases": 54,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 19,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Minnesota",
     "fips": 27,
     "cases": 60,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Minnesota",
     "fips": 27,
     "cases": 77,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 17,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Minnesota",
     "fips": 27,
     "cases": 89,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 12,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Minnesota",
     "fips": 27,
     "cases": 115,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 26,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Minnesota",
     "fips": 27,
     "cases": 138,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 23,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Minnesota",
     "fips": 27,
     "cases": 171,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 33,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Minnesota",
     "fips": 27,
     "cases": 235,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 64,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Minnesota",
     "fips": 27,
     "cases": 262,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 27,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Minnesota",
     "fips": 27,
     "cases": 287,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 25,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Minnesota",
     "fips": 27,
     "cases": 346,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 59,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-27",
     "state": "Minnesota",
     "fips": 27,
     "cases": 398,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 52,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-28",
     "state": "Minnesota",
     "fips": 27,
     "cases": 441,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 43,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-29",
     "state": "Minnesota",
     "fips": 27,
     "cases": 504,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 63,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-30",
     "state": "Minnesota",
     "fips": 27,
     "cases": 576,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 72,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-31",
     "state": "Minnesota",
     "fips": 27,
     "cases": 629,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 53,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-01",
     "state": "Minnesota",
     "fips": 27,
     "cases": 689,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 60,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-02",
     "state": "Minnesota",
     "fips": 27,
     "cases": 742,
-    "deaths": 18
+    "deaths": 18,
+    "new_cases": 53,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-03",
     "state": "Minnesota",
     "fips": 27,
     "cases": 789,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 47,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-04",
     "state": "Minnesota",
     "fips": 27,
     "cases": 865,
-    "deaths": 24
+    "deaths": 24,
+    "new_cases": 76,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-05",
     "state": "Minnesota",
     "fips": 27,
     "cases": 935,
-    "deaths": 29
+    "deaths": 29,
+    "new_cases": 70,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-06",
     "state": "Minnesota",
     "fips": 27,
     "cases": 986,
-    "deaths": 30
+    "deaths": 30,
+    "new_cases": 51,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-07",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1069,
-    "deaths": 34
+    "deaths": 34,
+    "new_cases": 83,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-08",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1154,
-    "deaths": 39
+    "deaths": 39,
+    "new_cases": 85,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-09",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1242,
-    "deaths": 50
+    "deaths": 50,
+    "new_cases": 88,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-10",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1335,
-    "deaths": 57
+    "deaths": 57,
+    "new_cases": 93,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-11",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1427,
-    "deaths": 64
+    "deaths": 64,
+    "new_cases": 92,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-12",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1621,
-    "deaths": 70
+    "deaths": 70,
+    "new_cases": 194,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-13",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1650,
-    "deaths": 70
+    "deaths": 70,
+    "new_cases": 29,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-14",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1695,
-    "deaths": 79
+    "deaths": 79,
+    "new_cases": 45,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-15",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1809,
-    "deaths": 87
+    "deaths": 87,
+    "new_cases": 114,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-16",
     "state": "Minnesota",
     "fips": 27,
     "cases": 1912,
-    "deaths": 94
+    "deaths": 94,
+    "new_cases": 103,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-17",
     "state": "Minnesota",
     "fips": 27,
     "cases": 2071,
-    "deaths": 111
+    "deaths": 111,
+    "new_cases": 159,
+    "new_deaths": 17
   },
   {
     "date": "2020-04-18",
     "state": "Minnesota",
     "fips": 27,
     "cases": 2213,
-    "deaths": 121
+    "deaths": 121,
+    "new_cases": 142,
+    "new_deaths": 10
   }
 ]

@@ -4,251 +4,323 @@
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-28",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 23,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-31",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-01",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-02",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 37,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-03",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 38,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-04",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 42,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-05",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 42,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 43,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 1,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-07",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 45,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-08",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 45,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-09",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 46,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 46,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-11",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-12",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-14",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-15",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-16",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-17",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 51,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-18",
     "state": "Virgin Islands",
     "fips": 78,
     "cases": 53,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 2,
+    "new_deaths": 1
   }
 ]

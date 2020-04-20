@@ -4,279 +4,359 @@
     "state": "Michigan",
     "fips": 26,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Michigan",
     "fips": 26,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Michigan",
     "fips": 26,
     "cases": 12,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 10,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Michigan",
     "fips": 26,
     "cases": 25,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Michigan",
     "fips": 26,
     "cases": 33,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Michigan",
     "fips": 26,
     "cases": 53,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 20,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Michigan",
     "fips": 26,
     "cases": 54,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Michigan",
     "fips": 26,
     "cases": 65,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Michigan",
     "fips": 26,
     "cases": 80,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 15,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-19",
     "state": "Michigan",
     "fips": 26,
     "cases": 334,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 254,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-20",
     "state": "Michigan",
     "fips": 26,
     "cases": 548,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 214,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-21",
     "state": "Michigan",
     "fips": 26,
     "cases": 787,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 239,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-22",
     "state": "Michigan",
     "fips": 26,
     "cases": 1033,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 246,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-23",
     "state": "Michigan",
     "fips": 26,
     "cases": 1324,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 291,
+    "new_deaths": 7
   },
   {
     "date": "2020-03-24",
     "state": "Michigan",
     "fips": 26,
     "cases": 1791,
-    "deaths": 24
+    "deaths": 24,
+    "new_cases": 467,
+    "new_deaths": 8
   },
   {
     "date": "2020-03-25",
     "state": "Michigan",
     "fips": 26,
     "cases": 2294,
-    "deaths": 43
+    "deaths": 43,
+    "new_cases": 503,
+    "new_deaths": 19
   },
   {
     "date": "2020-03-26",
     "state": "Michigan",
     "fips": 26,
     "cases": 2878,
-    "deaths": 63
+    "deaths": 63,
+    "new_cases": 584,
+    "new_deaths": 20
   },
   {
     "date": "2020-03-27",
     "state": "Michigan",
     "fips": 26,
     "cases": 3657,
-    "deaths": 93
+    "deaths": 93,
+    "new_cases": 779,
+    "new_deaths": 30
   },
   {
     "date": "2020-03-28",
     "state": "Michigan",
     "fips": 26,
     "cases": 4635,
-    "deaths": 111
+    "deaths": 111,
+    "new_cases": 978,
+    "new_deaths": 18
   },
   {
     "date": "2020-03-29",
     "state": "Michigan",
     "fips": 26,
     "cases": 5486,
-    "deaths": 132
+    "deaths": 132,
+    "new_cases": 851,
+    "new_deaths": 21
   },
   {
     "date": "2020-03-30",
     "state": "Michigan",
     "fips": 26,
     "cases": 6508,
-    "deaths": 197
+    "deaths": 197,
+    "new_cases": 1022,
+    "new_deaths": 65
   },
   {
     "date": "2020-03-31",
     "state": "Michigan",
     "fips": 26,
     "cases": 7630,
-    "deaths": 264
+    "deaths": 264,
+    "new_cases": 1122,
+    "new_deaths": 67
   },
   {
     "date": "2020-04-01",
     "state": "Michigan",
     "fips": 26,
     "cases": 9293,
-    "deaths": 336
+    "deaths": 336,
+    "new_cases": 1663,
+    "new_deaths": 72
   },
   {
     "date": "2020-04-02",
     "state": "Michigan",
     "fips": 26,
     "cases": 10791,
-    "deaths": 417
+    "deaths": 417,
+    "new_cases": 1498,
+    "new_deaths": 81
   },
   {
     "date": "2020-04-03",
     "state": "Michigan",
     "fips": 26,
     "cases": 12670,
-    "deaths": 478
+    "deaths": 478,
+    "new_cases": 1879,
+    "new_deaths": 61
   },
   {
     "date": "2020-04-04",
     "state": "Michigan",
     "fips": 26,
     "cases": 14225,
-    "deaths": 540
+    "deaths": 540,
+    "new_cases": 1555,
+    "new_deaths": 62
   },
   {
     "date": "2020-04-05",
     "state": "Michigan",
     "fips": 26,
     "cases": 15635,
-    "deaths": 616
+    "deaths": 616,
+    "new_cases": 1410,
+    "new_deaths": 76
   },
   {
     "date": "2020-04-06",
     "state": "Michigan",
     "fips": 26,
     "cases": 17130,
-    "deaths": 727
+    "deaths": 727,
+    "new_cases": 1495,
+    "new_deaths": 111
   },
   {
     "date": "2020-04-07",
     "state": "Michigan",
     "fips": 26,
     "cases": 18852,
-    "deaths": 845
+    "deaths": 845,
+    "new_cases": 1722,
+    "new_deaths": 118
   },
   {
     "date": "2020-04-08",
     "state": "Michigan",
     "fips": 26,
     "cases": 20220,
-    "deaths": 959
+    "deaths": 959,
+    "new_cases": 1368,
+    "new_deaths": 114
   },
   {
     "date": "2020-04-09",
     "state": "Michigan",
     "fips": 26,
     "cases": 21375,
-    "deaths": 1076
+    "deaths": 1076,
+    "new_cases": 1155,
+    "new_deaths": 117
   },
   {
     "date": "2020-04-10",
     "state": "Michigan",
     "fips": 26,
     "cases": 22646,
-    "deaths": 1280
+    "deaths": 1280,
+    "new_cases": 1271,
+    "new_deaths": 204
   },
   {
     "date": "2020-04-11",
     "state": "Michigan",
     "fips": 26,
     "cases": 23853,
-    "deaths": 1391
+    "deaths": 1391,
+    "new_cases": 1207,
+    "new_deaths": 111
   },
   {
     "date": "2020-04-12",
     "state": "Michigan",
     "fips": 26,
     "cases": 24494,
-    "deaths": 1486
+    "deaths": 1486,
+    "new_cases": 641,
+    "new_deaths": 95
   },
   {
     "date": "2020-04-13",
     "state": "Michigan",
     "fips": 26,
     "cases": 25487,
-    "deaths": 1601
+    "deaths": 1601,
+    "new_cases": 993,
+    "new_deaths": 115
   },
   {
     "date": "2020-04-14",
     "state": "Michigan",
     "fips": 26,
     "cases": 26844,
-    "deaths": 1766
+    "deaths": 1766,
+    "new_cases": 1357,
+    "new_deaths": 165
   },
   {
     "date": "2020-04-15",
     "state": "Michigan",
     "fips": 26,
     "cases": 27893,
-    "deaths": 1919
+    "deaths": 1919,
+    "new_cases": 1049,
+    "new_deaths": 153
   },
   {
     "date": "2020-04-16",
     "state": "Michigan",
     "fips": 26,
     "cases": 29119,
-    "deaths": 2091
+    "deaths": 2091,
+    "new_cases": 1226,
+    "new_deaths": 172
   },
   {
     "date": "2020-04-17",
     "state": "Michigan",
     "fips": 26,
     "cases": 29952,
-    "deaths": 2226
+    "deaths": 2226,
+    "new_cases": 833,
+    "new_deaths": 135
   },
   {
     "date": "2020-04-18",
     "state": "Michigan",
     "fips": 26,
     "cases": 30717,
-    "deaths": 2307
+    "deaths": 2307,
+    "new_cases": 765,
+    "new_deaths": 81
   }
 ]

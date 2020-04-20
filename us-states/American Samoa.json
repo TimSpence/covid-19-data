@@ -4,69 +4,89 @@
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-11",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-12",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-14",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-15",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-16",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-17",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-18",
     "state": "American Samoa",
     "fips": 60,
     "cases": 0,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   }
 ]

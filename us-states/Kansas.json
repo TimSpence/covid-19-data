@@ -4,300 +4,386 @@
     "state": "Kansas",
     "fips": 20,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Kansas",
     "fips": 20,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Kansas",
     "fips": 20,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Kansas",
     "fips": 20,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Kansas",
     "fips": 20,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Kansas",
     "fips": 20,
     "cases": 5,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 4,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-13",
     "state": "Kansas",
     "fips": 20,
     "cases": 6,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Kansas",
     "fips": 20,
     "cases": 8,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Kansas",
     "fips": 20,
     "cases": 9,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Kansas",
     "fips": 20,
     "cases": 11,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Kansas",
     "fips": 20,
     "cases": 17,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Kansas",
     "fips": 20,
     "cases": 22,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Kansas",
     "fips": 20,
     "cases": 35,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Kansas",
     "fips": 20,
     "cases": 49,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Kansas",
     "fips": 20,
     "cases": 57,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 8,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Kansas",
     "fips": 20,
     "cases": 66,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 9,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Kansas",
     "fips": 20,
     "cases": 82,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 16,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Kansas",
     "fips": 20,
     "cases": 99,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 17,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-25",
     "state": "Kansas",
     "fips": 20,
     "cases": 132,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 33,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Kansas",
     "fips": 20,
     "cases": 171,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 39,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "Kansas",
     "fips": 20,
     "cases": 212,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 41,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-28",
     "state": "Kansas",
     "fips": 20,
     "cases": 271,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 59,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-29",
     "state": "Kansas",
     "fips": 20,
     "cases": 332,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 61,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "Kansas",
     "fips": 20,
     "cases": 373,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 41,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-31",
     "state": "Kansas",
     "fips": 20,
     "cases": 434,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 61,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "Kansas",
     "fips": 20,
     "cases": 488,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 54,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-02",
     "state": "Kansas",
     "fips": 20,
     "cases": 554,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 66,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-03",
     "state": "Kansas",
     "fips": 20,
     "cases": 624,
-    "deaths": 19
+    "deaths": 19,
+    "new_cases": 70,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-04",
     "state": "Kansas",
     "fips": 20,
     "cases": 701,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 77,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-05",
     "state": "Kansas",
     "fips": 20,
     "cases": 763,
-    "deaths": 23
+    "deaths": 23,
+    "new_cases": 62,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-06",
     "state": "Kansas",
     "fips": 20,
     "cases": 853,
-    "deaths": 25
+    "deaths": 25,
+    "new_cases": 90,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-07",
     "state": "Kansas",
     "fips": 20,
     "cases": 905,
-    "deaths": 30
+    "deaths": 30,
+    "new_cases": 52,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-08",
     "state": "Kansas",
     "fips": 20,
     "cases": 1055,
-    "deaths": 38
+    "deaths": 38,
+    "new_cases": 150,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-09",
     "state": "Kansas",
     "fips": 20,
     "cases": 1116,
-    "deaths": 42
+    "deaths": 42,
+    "new_cases": 61,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-10",
     "state": "Kansas",
     "fips": 20,
     "cases": 1180,
-    "deaths": 50
+    "deaths": 50,
+    "new_cases": 64,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-11",
     "state": "Kansas",
     "fips": 20,
     "cases": 1283,
-    "deaths": 55
+    "deaths": 55,
+    "new_cases": 103,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-12",
     "state": "Kansas",
     "fips": 20,
     "cases": 1338,
-    "deaths": 56
+    "deaths": 56,
+    "new_cases": 55,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-13",
     "state": "Kansas",
     "fips": 20,
     "cases": 1383,
-    "deaths": 63
+    "deaths": 63,
+    "new_cases": 45,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-14",
     "state": "Kansas",
     "fips": 20,
     "cases": 1439,
-    "deaths": 69
+    "deaths": 69,
+    "new_cases": 56,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-15",
     "state": "Kansas",
     "fips": 20,
     "cases": 1502,
-    "deaths": 76
+    "deaths": 76,
+    "new_cases": 63,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-16",
     "state": "Kansas",
     "fips": 20,
     "cases": 1594,
-    "deaths": 80
+    "deaths": 80,
+    "new_cases": 92,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-17",
     "state": "Kansas",
     "fips": 20,
     "cases": 1731,
-    "deaths": 84
+    "deaths": 84,
+    "new_cases": 137,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-18",
     "state": "Kansas",
     "fips": 20,
     "cases": 1820,
-    "deaths": 86
+    "deaths": 86,
+    "new_cases": 89,
+    "new_deaths": 2
   }
 ]

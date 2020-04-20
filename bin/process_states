@@ -14,7 +14,13 @@ end
 table = CSV.parse(File.read(infile), headers: true, header_converters: :symbol, converters: :numeric)
 
 states.each do |state|
+  prev_cases, prev_deaths = 0, 0
   filtered_table = table.select { |row| row[:state] == state }
+  filtered_table.each do |row|
+    row[:new_cases] = row[:cases] - prev_cases
+    row[:new_deaths] = row[:deaths] - prev_deaths
+    prev_cases, prev_deaths = row[:cases], row[:deaths]
+  end
   File.open("us-states/#{state}.json", "w") do |f|
     f.write JSON.pretty_generate filtered_table.map { |row| row.to_hash }
   end

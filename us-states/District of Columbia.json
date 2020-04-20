@@ -4,300 +4,386 @@
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 4,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 16,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 22,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 31,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 9,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 36,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 39,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 71,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 32,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 77,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 6,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 98,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 116,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 18,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-24",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 137,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 183,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 46,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 231,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 48,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-27",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 267,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 36,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-28",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 304,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 37,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-29",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 342,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 38,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 401,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 59,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-31",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 495,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 94,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-01",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 586,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 91,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-02",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 653,
-    "deaths": 12
+    "deaths": 12,
+    "new_cases": 67,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-03",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 757,
-    "deaths": 15
+    "deaths": 15,
+    "new_cases": 104,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-04",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 902,
-    "deaths": 21
+    "deaths": 21,
+    "new_cases": 145,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-05",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 998,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 96,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-06",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1097,
-    "deaths": 24
+    "deaths": 24,
+    "new_cases": 99,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-07",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1211,
-    "deaths": 24
+    "deaths": 24,
+    "new_cases": 114,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-08",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1440,
-    "deaths": 27
+    "deaths": 27,
+    "new_cases": 229,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-09",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1523,
-    "deaths": 32
+    "deaths": 32,
+    "new_cases": 83,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-10",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1660,
-    "deaths": 38
+    "deaths": 38,
+    "new_cases": 137,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-11",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1778,
-    "deaths": 47
+    "deaths": 47,
+    "new_cases": 118,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-12",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1875,
-    "deaths": 50
+    "deaths": 50,
+    "new_cases": 97,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-13",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 1955,
-    "deaths": 52
+    "deaths": 52,
+    "new_cases": 80,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-14",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 2058,
-    "deaths": 67
+    "deaths": 67,
+    "new_cases": 103,
+    "new_deaths": 15
   },
   {
     "date": "2020-04-15",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 2197,
-    "deaths": 72
+    "deaths": 72,
+    "new_cases": 139,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-16",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 2350,
-    "deaths": 81
+    "deaths": 81,
+    "new_cases": 153,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-17",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 2476,
-    "deaths": 86
+    "deaths": 86,
+    "new_cases": 126,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-18",
     "state": "District of Columbia",
     "fips": 11,
     "cases": 2666,
-    "deaths": 91
+    "deaths": 91,
+    "new_cases": 190,
+    "new_deaths": 5
   }
 ]

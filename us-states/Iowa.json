@@ -4,293 +4,377 @@
     "state": "Iowa",
     "fips": 19,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Iowa",
     "fips": 19,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Iowa",
     "fips": 19,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Iowa",
     "fips": 19,
     "cases": 14,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Iowa",
     "fips": 19,
     "cases": 16,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Iowa",
     "fips": 19,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Iowa",
     "fips": 19,
     "cases": 18,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Iowa",
     "fips": 19,
     "cases": 22,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 4,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Iowa",
     "fips": 19,
     "cases": 22,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Iowa",
     "fips": 19,
     "cases": 29,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Iowa",
     "fips": 19,
     "cases": 38,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 9,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Iowa",
     "fips": 19,
     "cases": 44,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Iowa",
     "fips": 19,
     "cases": 45,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Iowa",
     "fips": 19,
     "cases": 68,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 23,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Iowa",
     "fips": 19,
     "cases": 90,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 22,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Iowa",
     "fips": 19,
     "cases": 105,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Iowa",
     "fips": 19,
     "cases": 124,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 19,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-25",
     "state": "Iowa",
     "fips": 19,
     "cases": 145,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-26",
     "state": "Iowa",
     "fips": 19,
     "cases": 179,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 34,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-27",
     "state": "Iowa",
     "fips": 19,
     "cases": 235,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 56,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-28",
     "state": "Iowa",
     "fips": 19,
     "cases": 298,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 63,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Iowa",
     "fips": 19,
     "cases": 336,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 38,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "Iowa",
     "fips": 19,
     "cases": 424,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 88,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-31",
     "state": "Iowa",
     "fips": 19,
     "cases": 498,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 74,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "Iowa",
     "fips": 19,
     "cases": 549,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 51,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-02",
     "state": "Iowa",
     "fips": 19,
     "cases": 614,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 65,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-03",
     "state": "Iowa",
     "fips": 19,
     "cases": 699,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 85,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-04",
     "state": "Iowa",
     "fips": 19,
     "cases": 786,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 87,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-05",
     "state": "Iowa",
     "fips": 19,
     "cases": 868,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 82,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-06",
     "state": "Iowa",
     "fips": 19,
     "cases": 946,
-    "deaths": 25
+    "deaths": 25,
+    "new_cases": 78,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-07",
     "state": "Iowa",
     "fips": 19,
     "cases": 1048,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 102,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-08",
     "state": "Iowa",
     "fips": 19,
     "cases": 1145,
-    "deaths": 27
+    "deaths": 27,
+    "new_cases": 97,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-09",
     "state": "Iowa",
     "fips": 19,
     "cases": 1270,
-    "deaths": 27
+    "deaths": 27,
+    "new_cases": 125,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "Iowa",
     "fips": 19,
     "cases": 1388,
-    "deaths": 31
+    "deaths": 31,
+    "new_cases": 118,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-11",
     "state": "Iowa",
     "fips": 19,
     "cases": 1510,
-    "deaths": 34
+    "deaths": 34,
+    "new_cases": 122,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-12",
     "state": "Iowa",
     "fips": 19,
     "cases": 1587,
-    "deaths": 41
+    "deaths": 41,
+    "new_cases": 77,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-13",
     "state": "Iowa",
     "fips": 19,
     "cases": 1710,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 123,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-14",
     "state": "Iowa",
     "fips": 19,
     "cases": 1899,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 189,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-15",
     "state": "Iowa",
     "fips": 19,
     "cases": 1995,
-    "deaths": 53
+    "deaths": 53,
+    "new_cases": 96,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-16",
     "state": "Iowa",
     "fips": 19,
     "cases": 2141,
-    "deaths": 60
+    "deaths": 60,
+    "new_cases": 146,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-17",
     "state": "Iowa",
     "fips": 19,
     "cases": 2332,
-    "deaths": 64
+    "deaths": 64,
+    "new_cases": 191,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-18",
     "state": "Iowa",
     "fips": 19,
     "cases": 2513,
-    "deaths": 74
+    "deaths": 74,
+    "new_cases": 181,
+    "new_deaths": 10
   }
 ]

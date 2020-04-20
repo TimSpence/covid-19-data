@@ -4,545 +4,701 @@
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-02",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-03",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-04",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-05",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-06",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-07",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-08",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-09",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-10",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-11",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-12",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-13",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-14",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-15",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-16",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-17",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-18",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-19",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-20",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-21",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-22",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-23",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-24",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-25",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-26",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-27",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-28",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 13,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 5,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 28,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 41,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 92,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 51,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 95,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 108,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 123,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 138,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 15,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 164,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 26,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 197,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 33,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 218,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 256,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 38,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 328,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 72,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 413,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 85,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-21",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 525,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 112,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 646,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 121,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-23",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 777,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 131,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1159,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 382,
+    "new_deaths": 6
   },
   {
     "date": "2020-03-25",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 1838,
-    "deaths": 15
+    "deaths": 15,
+    "new_cases": 679,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-26",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 2417,
-    "deaths": 25
+    "deaths": 25,
+    "new_cases": 579,
+    "new_deaths": 10
   },
   {
     "date": "2020-03-27",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 3240,
-    "deaths": 35
+    "deaths": 35,
+    "new_cases": 823,
+    "new_deaths": 10
   },
   {
     "date": "2020-03-28",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 4257,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 1017,
+    "new_deaths": 9
   },
   {
     "date": "2020-03-29",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 4955,
-    "deaths": 48
+    "deaths": 48,
+    "new_cases": 698,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-30",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 5752,
-    "deaths": 61
+    "deaths": 61,
+    "new_cases": 797,
+    "new_deaths": 13
   },
   {
     "date": "2020-03-31",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 6620,
-    "deaths": 89
+    "deaths": 89,
+    "new_cases": 868,
+    "new_deaths": 28
   },
   {
     "date": "2020-04-01",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 7738,
-    "deaths": 122
+    "deaths": 122,
+    "new_cases": 1118,
+    "new_deaths": 33
   },
   {
     "date": "2020-04-02",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 8966,
-    "deaths": 154
+    "deaths": 154,
+    "new_cases": 1228,
+    "new_deaths": 32
   },
   {
     "date": "2020-04-03",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 10402,
-    "deaths": 192
+    "deaths": 192,
+    "new_cases": 1436,
+    "new_deaths": 38
   },
   {
     "date": "2020-04-04",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 11736,
-    "deaths": 216
+    "deaths": 216,
+    "new_cases": 1334,
+    "new_deaths": 24
   },
   {
     "date": "2020-04-05",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 12500,
-    "deaths": 231
+    "deaths": 231,
+    "new_cases": 764,
+    "new_deaths": 15
   },
   {
     "date": "2020-04-06",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 13837,
-    "deaths": 260
+    "deaths": 260,
+    "new_cases": 1337,
+    "new_deaths": 29
   },
   {
     "date": "2020-04-07",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 15202,
-    "deaths": 356
+    "deaths": 356,
+    "new_cases": 1365,
+    "new_deaths": 96
   },
   {
     "date": "2020-04-08",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 16790,
-    "deaths": 433
+    "deaths": 433,
+    "new_cases": 1588,
+    "new_deaths": 77
   },
   {
     "date": "2020-04-09",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 18941,
-    "deaths": 503
+    "deaths": 503,
+    "new_cases": 2151,
+    "new_deaths": 70
   },
   {
     "date": "2020-04-10",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 20974,
-    "deaths": 599
+    "deaths": 599,
+    "new_cases": 2033,
+    "new_deaths": 96
   },
   {
     "date": "2020-04-11",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 22860,
-    "deaths": 686
+    "deaths": 686,
+    "new_cases": 1886,
+    "new_deaths": 87
   },
   {
     "date": "2020-04-12",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 25475,
-    "deaths": 756
+    "deaths": 756,
+    "new_cases": 2615,
+    "new_deaths": 70
   },
   {
     "date": "2020-04-13",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 26867,
-    "deaths": 844
+    "deaths": 844,
+    "new_cases": 1392,
+    "new_deaths": 88
   },
   {
     "date": "2020-04-14",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 28163,
-    "deaths": 957
+    "deaths": 957,
+    "new_cases": 1296,
+    "new_deaths": 113
   },
   {
     "date": "2020-04-15",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 29918,
-    "deaths": 1108
+    "deaths": 1108,
+    "new_cases": 1755,
+    "new_deaths": 151
   },
   {
     "date": "2020-04-16",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 32181,
-    "deaths": 1245
+    "deaths": 1245,
+    "new_cases": 2263,
+    "new_deaths": 137
   },
   {
     "date": "2020-04-17",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 34402,
-    "deaths": 1404
+    "deaths": 1404,
+    "new_cases": 2221,
+    "new_deaths": 159
   },
   {
     "date": "2020-04-18",
     "state": "Massachusetts",
     "fips": 25,
     "cases": 36372,
-    "deaths": 1560
+    "deaths": 1560,
+    "new_cases": 1970,
+    "new_deaths": 156
   }
 ]

@@ -4,258 +4,332 @@
     "state": "Alabama",
     "fips": 1,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Alabama",
     "fips": 1,
     "cases": 12,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Alabama",
     "fips": 1,
     "cases": 23,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Alabama",
     "fips": 1,
     "cases": 29,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Alabama",
     "fips": 1,
     "cases": 39,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 10,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Alabama",
     "fips": 1,
     "cases": 51,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 12,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Alabama",
     "fips": 1,
     "cases": 78,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 27,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Alabama",
     "fips": 1,
     "cases": 106,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 28,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Alabama",
     "fips": 1,
     "cases": 131,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 25,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-22",
     "state": "Alabama",
     "fips": 1,
     "cases": 157,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 26,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Alabama",
     "fips": 1,
     "cases": 196,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 39,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Alabama",
     "fips": 1,
     "cases": 242,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 46,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Alabama",
     "fips": 1,
     "cases": 386,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 144,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-26",
     "state": "Alabama",
     "fips": 1,
     "cases": 538,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 152,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-27",
     "state": "Alabama",
     "fips": 1,
     "cases": 639,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 101,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-28",
     "state": "Alabama",
     "fips": 1,
     "cases": 720,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 81,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-29",
     "state": "Alabama",
     "fips": 1,
     "cases": 830,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 110,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-30",
     "state": "Alabama",
     "fips": 1,
     "cases": 947,
-    "deaths": 11
+    "deaths": 11,
+    "new_cases": 117,
+    "new_deaths": 6
   },
   {
     "date": "2020-03-31",
     "state": "Alabama",
     "fips": 1,
     "cases": 999,
-    "deaths": 13
+    "deaths": 13,
+    "new_cases": 52,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-01",
     "state": "Alabama",
     "fips": 1,
     "cases": 1106,
-    "deaths": 28
+    "deaths": 28,
+    "new_cases": 107,
+    "new_deaths": 15
   },
   {
     "date": "2020-04-02",
     "state": "Alabama",
     "fips": 1,
     "cases": 1270,
-    "deaths": 32
+    "deaths": 32,
+    "new_cases": 164,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-03",
     "state": "Alabama",
     "fips": 1,
     "cases": 1535,
-    "deaths": 38
+    "deaths": 38,
+    "new_cases": 265,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-04",
     "state": "Alabama",
     "fips": 1,
     "cases": 1633,
-    "deaths": 44
+    "deaths": 44,
+    "new_cases": 98,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-05",
     "state": "Alabama",
     "fips": 1,
     "cases": 1841,
-    "deaths": 45
+    "deaths": 45,
+    "new_cases": 208,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-06",
     "state": "Alabama",
     "fips": 1,
     "cases": 2006,
-    "deaths": 53
+    "deaths": 53,
+    "new_cases": 165,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-07",
     "state": "Alabama",
     "fips": 1,
     "cases": 2197,
-    "deaths": 64
+    "deaths": 64,
+    "new_cases": 191,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-08",
     "state": "Alabama",
     "fips": 1,
     "cases": 2499,
-    "deaths": 67
+    "deaths": 67,
+    "new_cases": 302,
+    "new_deaths": 3
   },
   {
     "date": "2020-04-09",
     "state": "Alabama",
     "fips": 1,
     "cases": 2838,
-    "deaths": 78
+    "deaths": 78,
+    "new_cases": 339,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-10",
     "state": "Alabama",
     "fips": 1,
     "cases": 3008,
-    "deaths": 80
+    "deaths": 80,
+    "new_cases": 170,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-11",
     "state": "Alabama",
     "fips": 1,
     "cases": 3262,
-    "deaths": 93
+    "deaths": 93,
+    "new_cases": 254,
+    "new_deaths": 13
   },
   {
     "date": "2020-04-12",
     "state": "Alabama",
     "fips": 1,
     "cases": 3583,
-    "deaths": 93
+    "deaths": 93,
+    "new_cases": 321,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-13",
     "state": "Alabama",
     "fips": 1,
     "cases": 3805,
-    "deaths": 104
+    "deaths": 104,
+    "new_cases": 222,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-14",
     "state": "Alabama",
     "fips": 1,
     "cases": 3953,
-    "deaths": 114
+    "deaths": 114,
+    "new_cases": 148,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-15",
     "state": "Alabama",
     "fips": 1,
     "cases": 4241,
-    "deaths": 123
+    "deaths": 123,
+    "new_cases": 288,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-16",
     "state": "Alabama",
     "fips": 1,
     "cases": 4404,
-    "deaths": 137
+    "deaths": 137,
+    "new_cases": 163,
+    "new_deaths": 14
   },
   {
     "date": "2020-04-17",
     "state": "Alabama",
     "fips": 1,
     "cases": 4572,
-    "deaths": 151
+    "deaths": 151,
+    "new_cases": 168,
+    "new_deaths": 14
   },
   {
     "date": "2020-04-18",
     "state": "Alabama",
     "fips": 1,
     "cases": 4723,
-    "deaths": 147
+    "deaths": 147,
+    "new_cases": 151,
+    "new_deaths": -4
   }
 ]

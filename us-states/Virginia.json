@@ -4,300 +4,386 @@
     "state": "Virginia",
     "fips": 51,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Virginia",
     "fips": 51,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Virginia",
     "fips": 51,
     "cases": 5,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Virginia",
     "fips": 51,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Virginia",
     "fips": 51,
     "cases": 10,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Virginia",
     "fips": 51,
     "cases": 17,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 7,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Virginia",
     "fips": 51,
     "cases": 30,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 13,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Virginia",
     "fips": 51,
     "cases": 42,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 12,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-15",
     "state": "Virginia",
     "fips": 51,
     "cases": 45,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Virginia",
     "fips": 51,
     "cases": 51,
-    "deaths": 1
+    "deaths": 1,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Virginia",
     "fips": 51,
     "cases": 67,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 16,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-18",
     "state": "Virginia",
     "fips": 51,
     "cases": 78,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Virginia",
     "fips": 51,
     "cases": 94,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 16,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-20",
     "state": "Virginia",
     "fips": 51,
     "cases": 115,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 21,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-21",
     "state": "Virginia",
     "fips": 51,
     "cases": 152,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 37,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Virginia",
     "fips": 51,
     "cases": 219,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 67,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-23",
     "state": "Virginia",
     "fips": 51,
     "cases": 254,
-    "deaths": 6
+    "deaths": 6,
+    "new_cases": 35,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-24",
     "state": "Virginia",
     "fips": 51,
     "cases": 290,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 36,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-25",
     "state": "Virginia",
     "fips": 51,
     "cases": 391,
-    "deaths": 9
+    "deaths": 9,
+    "new_cases": 101,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-26",
     "state": "Virginia",
     "fips": 51,
     "cases": 604,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 213,
+    "new_deaths": 5
   },
   {
     "date": "2020-03-27",
     "state": "Virginia",
     "fips": 51,
     "cases": 606,
-    "deaths": 14
+    "deaths": 14,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-28",
     "state": "Virginia",
     "fips": 51,
     "cases": 740,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 134,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-29",
     "state": "Virginia",
     "fips": 51,
     "cases": 890,
-    "deaths": 22
+    "deaths": 22,
+    "new_cases": 150,
+    "new_deaths": 5
   },
   {
     "date": "2020-03-30",
     "state": "Virginia",
     "fips": 51,
     "cases": 1021,
-    "deaths": 26
+    "deaths": 26,
+    "new_cases": 131,
+    "new_deaths": 4
   },
   {
     "date": "2020-03-31",
     "state": "Virginia",
     "fips": 51,
     "cases": 1250,
-    "deaths": 27
+    "deaths": 27,
+    "new_cases": 229,
+    "new_deaths": 1
   },
   {
     "date": "2020-04-01",
     "state": "Virginia",
     "fips": 51,
     "cases": 1511,
-    "deaths": 34
+    "deaths": 34,
+    "new_cases": 261,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-02",
     "state": "Virginia",
     "fips": 51,
     "cases": 1706,
-    "deaths": 41
+    "deaths": 41,
+    "new_cases": 195,
+    "new_deaths": 7
   },
   {
     "date": "2020-04-03",
     "state": "Virginia",
     "fips": 51,
     "cases": 2012,
-    "deaths": 46
+    "deaths": 46,
+    "new_cases": 306,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-04",
     "state": "Virginia",
     "fips": 51,
     "cases": 2407,
-    "deaths": 52
+    "deaths": 52,
+    "new_cases": 395,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-05",
     "state": "Virginia",
     "fips": 51,
     "cases": 2637,
-    "deaths": 52
+    "deaths": 52,
+    "new_cases": 230,
+    "new_deaths": 0
   },
   {
     "date": "2020-04-06",
     "state": "Virginia",
     "fips": 51,
     "cases": 2878,
-    "deaths": 54
+    "deaths": 54,
+    "new_cases": 241,
+    "new_deaths": 2
   },
   {
     "date": "2020-04-07",
     "state": "Virginia",
     "fips": 51,
     "cases": 3333,
-    "deaths": 69
+    "deaths": 69,
+    "new_cases": 455,
+    "new_deaths": 15
   },
   {
     "date": "2020-04-08",
     "state": "Virginia",
     "fips": 51,
     "cases": 3645,
-    "deaths": 75
+    "deaths": 75,
+    "new_cases": 312,
+    "new_deaths": 6
   },
   {
     "date": "2020-04-09",
     "state": "Virginia",
     "fips": 51,
     "cases": 4042,
-    "deaths": 109
+    "deaths": 109,
+    "new_cases": 397,
+    "new_deaths": 34
   },
   {
     "date": "2020-04-10",
     "state": "Virginia",
     "fips": 51,
     "cases": 4509,
-    "deaths": 121
+    "deaths": 121,
+    "new_cases": 467,
+    "new_deaths": 12
   },
   {
     "date": "2020-04-11",
     "state": "Virginia",
     "fips": 51,
     "cases": 5077,
-    "deaths": 130
+    "deaths": 130,
+    "new_cases": 568,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-12",
     "state": "Virginia",
     "fips": 51,
     "cases": 5274,
-    "deaths": 141
+    "deaths": 141,
+    "new_cases": 197,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-13",
     "state": "Virginia",
     "fips": 51,
     "cases": 5747,
-    "deaths": 149
+    "deaths": 149,
+    "new_cases": 473,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-14",
     "state": "Virginia",
     "fips": 51,
     "cases": 6171,
-    "deaths": 154
+    "deaths": 154,
+    "new_cases": 424,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-15",
     "state": "Virginia",
     "fips": 51,
     "cases": 6500,
-    "deaths": 195
+    "deaths": 195,
+    "new_cases": 329,
+    "new_deaths": 41
   },
   {
     "date": "2020-04-16",
     "state": "Virginia",
     "fips": 51,
     "cases": 6889,
-    "deaths": 208
+    "deaths": 208,
+    "new_cases": 389,
+    "new_deaths": 13
   },
   {
     "date": "2020-04-17",
     "state": "Virginia",
     "fips": 51,
     "cases": 7491,
-    "deaths": 238
+    "deaths": 238,
+    "new_cases": 602,
+    "new_deaths": 30
   },
   {
     "date": "2020-04-18",
     "state": "Virginia",
     "fips": 51,
     "cases": 8053,
-    "deaths": 258
+    "deaths": 258,
+    "new_cases": 562,
+    "new_deaths": 20
   }
 ]

@@ -26,22 +26,25 @@ and outputs each state's json under `us-states/`.
 The source data is provided at state and county levels.
 
 ```javascript
-{
-  "data": [
-    {
-      "date": "2020-01-21",
-      "state": "Washington",
-      "fips": 53,
-      "cases": 1,
-      "deaths": 0
-    },
-    {
-      "date": "2020-01-22",
-      "state": "Washington",
-      "fips": 53,
-      "cases": 1,
-      "deaths": 0
-    }, ...
+[
+  {
+    "date": "2020-01-21",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 1,
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-01-22",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 1,
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
 ```
 
 ## Querying

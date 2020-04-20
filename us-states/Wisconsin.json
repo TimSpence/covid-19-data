@@ -4,517 +4,665 @@
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-06",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-07",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-08",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-09",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-10",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-11",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-12",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-13",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-14",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-15",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-16",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-17",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-18",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-19",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-20",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-21",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-22",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-23",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-24",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-25",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-26",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-27",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-28",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-02-29",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-01",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-02",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-03",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-04",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-05",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-06",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-07",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-08",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 0,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-09",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-10",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 1,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-11",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 6,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 3,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-12",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 8,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 2,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-13",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 19,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 11,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-14",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 27,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 8,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-15",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 33,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 6,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-16",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 47,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 14,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-17",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 72,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 25,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-18",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 106,
-    "deaths": 0
+    "deaths": 0,
+    "new_cases": 34,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-19",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 155,
-    "deaths": 2
+    "deaths": 2,
+    "new_cases": 49,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-20",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 216,
-    "deaths": 3
+    "deaths": 3,
+    "new_cases": 61,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-21",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 281,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 65,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-22",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 382,
-    "deaths": 4
+    "deaths": 4,
+    "new_cases": 101,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-23",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 418,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 36,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-24",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 481,
-    "deaths": 5
+    "deaths": 5,
+    "new_cases": 63,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-25",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 623,
-    "deaths": 7
+    "deaths": 7,
+    "new_cases": 142,
+    "new_deaths": 2
   },
   {
     "date": "2020-03-26",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 754,
-    "deaths": 10
+    "deaths": 10,
+    "new_cases": 131,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-27",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 930,
-    "deaths": 16
+    "deaths": 16,
+    "new_cases": 176,
+    "new_deaths": 6
   },
   {
     "date": "2020-03-28",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1042,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 112,
+    "new_deaths": 1
   },
   {
     "date": "2020-03-29",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1120,
-    "deaths": 17
+    "deaths": 17,
+    "new_cases": 78,
+    "new_deaths": 0
   },
   {
     "date": "2020-03-30",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1267,
-    "deaths": 20
+    "deaths": 20,
+    "new_cases": 147,
+    "new_deaths": 3
   },
   {
     "date": "2020-03-31",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1351,
-    "deaths": 25
+    "deaths": 25,
+    "new_cases": 84,
+    "new_deaths": 5
   },
   {
     "date": "2020-04-01",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1550,
-    "deaths": 33
+    "deaths": 33,
+    "new_cases": 199,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-02",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1730,
-    "deaths": 37
+    "deaths": 37,
+    "new_cases": 180,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-03",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 1916,
-    "deaths": 49
+    "deaths": 49,
+    "new_cases": 186,
+    "new_deaths": 12
   },
   {
     "date": "2020-04-04",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2112,
-    "deaths": 60
+    "deaths": 60,
+    "new_cases": 196,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-05",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2267,
-    "deaths": 73
+    "deaths": 73,
+    "new_cases": 155,
+    "new_deaths": 13
   },
   {
     "date": "2020-04-06",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2440,
-    "deaths": 83
+    "deaths": 83,
+    "new_cases": 173,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-07",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2578,
-    "deaths": 94
+    "deaths": 94,
+    "new_cases": 138,
+    "new_deaths": 11
   },
   {
     "date": "2020-04-08",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2756,
-    "deaths": 107
+    "deaths": 107,
+    "new_cases": 178,
+    "new_deaths": 13
   },
   {
     "date": "2020-04-09",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 2885,
-    "deaths": 116
+    "deaths": 116,
+    "new_cases": 129,
+    "new_deaths": 9
   },
   {
     "date": "2020-04-10",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3068,
-    "deaths": 131
+    "deaths": 131,
+    "new_cases": 183,
+    "new_deaths": 15
   },
   {
     "date": "2020-04-11",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3213,
-    "deaths": 141
+    "deaths": 141,
+    "new_cases": 145,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-12",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3341,
-    "deaths": 145
+    "deaths": 145,
+    "new_cases": 128,
+    "new_deaths": 4
   },
   {
     "date": "2020-04-13",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3428,
-    "deaths": 155
+    "deaths": 155,
+    "new_cases": 87,
+    "new_deaths": 10
   },
   {
     "date": "2020-04-14",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3555,
-    "deaths": 172
+    "deaths": 172,
+    "new_cases": 127,
+    "new_deaths": 17
   },
   {
     "date": "2020-04-15",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3721,
-    "deaths": 184
+    "deaths": 184,
+    "new_cases": 166,
+    "new_deaths": 12
   },
   {
     "date": "2020-04-16",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 3875,
-    "deaths": 197
+    "deaths": 197,
+    "new_cases": 154,
+    "new_deaths": 13
   },
   {
     "date": "2020-04-17",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 4045,
-    "deaths": 205
+    "deaths": 205,
+    "new_cases": 170,
+    "new_deaths": 8
   },
   {
     "date": "2020-04-18",
     "state": "Wisconsin",
     "fips": 55,
     "cases": 4199,
-    "deaths": 212
+    "deaths": 212,
+    "new_cases": 154,
+    "new_deaths": 7
   }
 ]
