@@ -349,5 +349,140 @@
     "deaths": 2,
     "new_cases": 4,
     "new_deaths": 0
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 313,
+    "deaths": 2,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 317,
+    "deaths": 2,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 322,
+    "deaths": 6,
+    "new_cases": 5,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 326,
+    "deaths": 6,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 332,
+    "deaths": 7,
+    "new_cases": 6,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 349,
+    "deaths": 7,
+    "new_cases": 17,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 362,
+    "deaths": 7,
+    "new_cases": 13,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 371,
+    "deaths": 7,
+    "new_cases": 9,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 389,
+    "deaths": 7,
+    "new_cases": 18,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 396,
+    "deaths": 7,
+    "new_cases": 7,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 404,
+    "deaths": 7,
+    "new_cases": 8,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 415,
+    "deaths": 7,
+    "new_cases": 11,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 420,
+    "deaths": 7,
+    "new_cases": 5,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 429,
+    "deaths": 7,
+    "new_cases": 9,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Wyoming",
+    "fips": 56,
+    "cases": 435,
+    "deaths": 7,
+    "new_cases": 6,
+    "new_deaths": 0
   }
 ]

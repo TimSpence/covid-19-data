@@ -291,10 +291,10 @@
     "date": "2020-04-02",
     "state": "New York",
     "fips": 36,
-    "cases": 92770,
-    "deaths": 2653,
-    "new_cases": 8881,
-    "new_deaths": 712
+    "cases": 92381,
+    "deaths": 2373,
+    "new_cases": 8492,
+    "new_deaths": 432
   },
   {
     "date": "2020-04-03",
@@ -302,8 +302,8 @@
     "fips": 36,
     "cases": 102870,
     "deaths": 2935,
-    "new_cases": 10100,
-    "new_deaths": 282
+    "new_cases": 10489,
+    "new_deaths": 562
   },
   {
     "date": "2020-04-04",
@@ -327,9 +327,9 @@
     "date": "2020-04-06",
     "state": "New York",
     "fips": 36,
-    "cases": 130703,
+    "cases": 130689,
     "deaths": 4758,
-    "new_cases": 7792,
+    "new_cases": 7778,
     "new_deaths": 597
   },
   {
@@ -338,7 +338,7 @@
     "fips": 36,
     "cases": 140081,
     "deaths": 5563,
-    "new_cases": 9378,
+    "new_cases": 9392,
     "new_deaths": 805
   },
   {
@@ -439,5 +439,140 @@
     "deaths": 13362,
     "new_cases": 7121,
     "new_deaths": 540
+  },
+  {
+    "date": "2020-04-19",
+    "state": "New York",
+    "fips": 36,
+    "cases": 242817,
+    "deaths": 13869,
+    "new_cases": 6054,
+    "new_deaths": 507
+  },
+  {
+    "date": "2020-04-20",
+    "state": "New York",
+    "fips": 36,
+    "cases": 247543,
+    "deaths": 14347,
+    "new_cases": 4726,
+    "new_deaths": 478
+  },
+  {
+    "date": "2020-04-21",
+    "state": "New York",
+    "fips": 36,
+    "cases": 251720,
+    "deaths": 14828,
+    "new_cases": 4177,
+    "new_deaths": 481
+  },
+  {
+    "date": "2020-04-22",
+    "state": "New York",
+    "fips": 36,
+    "cases": 257246,
+    "deaths": 15302,
+    "new_cases": 5526,
+    "new_deaths": 474
+  },
+  {
+    "date": "2020-04-23",
+    "state": "New York",
+    "fips": 36,
+    "cases": 263460,
+    "deaths": 15740,
+    "new_cases": 6214,
+    "new_deaths": 438
+  },
+  {
+    "date": "2020-04-24",
+    "state": "New York",
+    "fips": 36,
+    "cases": 271621,
+    "deaths": 16162,
+    "new_cases": 8161,
+    "new_deaths": 422
+  },
+  {
+    "date": "2020-04-25",
+    "state": "New York",
+    "fips": 36,
+    "cases": 282174,
+    "deaths": 16599,
+    "new_cases": 10553,
+    "new_deaths": 437
+  },
+  {
+    "date": "2020-04-26",
+    "state": "New York",
+    "fips": 36,
+    "cases": 288076,
+    "deaths": 16966,
+    "new_cases": 5902,
+    "new_deaths": 367
+  },
+  {
+    "date": "2020-04-27",
+    "state": "New York",
+    "fips": 36,
+    "cases": 292027,
+    "deaths": 17303,
+    "new_cases": 3951,
+    "new_deaths": 337
+  },
+  {
+    "date": "2020-04-28",
+    "state": "New York",
+    "fips": 36,
+    "cases": 295137,
+    "deaths": 17638,
+    "new_cases": 3110,
+    "new_deaths": 335
+  },
+  {
+    "date": "2020-04-29",
+    "state": "New York",
+    "fips": 36,
+    "cases": 299722,
+    "deaths": 18015,
+    "new_cases": 4585,
+    "new_deaths": 377
+  },
+  {
+    "date": "2020-04-30",
+    "state": "New York",
+    "fips": 36,
+    "cases": 304401,
+    "deaths": 18321,
+    "new_cases": 4679,
+    "new_deaths": 306
+  },
+  {
+    "date": "2020-05-01",
+    "state": "New York",
+    "fips": 36,
+    "cases": 308345,
+    "deaths": 18610,
+    "new_cases": 3944,
+    "new_deaths": 289
+  },
+  {
+    "date": "2020-05-02",
+    "state": "New York",
+    "fips": 36,
+    "cases": 313008,
+    "deaths": 18909,
+    "new_cases": 4663,
+    "new_deaths": 299
+  },
+  {
+    "date": "2020-05-03",
+    "state": "New York",
+    "fips": 36,
+    "cases": 316446,
+    "deaths": 19189,
+    "new_cases": 3438,
+    "new_deaths": 280
   }
 ]

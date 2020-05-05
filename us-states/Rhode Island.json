@@ -439,5 +439,140 @@
     "deaths": 137,
     "new_cases": 314,
     "new_deaths": 19
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 4706,
+    "deaths": 150,
+    "new_cases": 215,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5090,
+    "deaths": 155,
+    "new_cases": 384,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5500,
+    "deaths": 171,
+    "new_cases": 410,
+    "new_deaths": 16
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 5841,
+    "deaths": 181,
+    "new_cases": 341,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 6256,
+    "deaths": 189,
+    "new_cases": 415,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 6699,
+    "deaths": 202,
+    "new_cases": 443,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 7129,
+    "deaths": 215,
+    "new_cases": 430,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 7439,
+    "deaths": 226,
+    "new_cases": 310,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 7708,
+    "deaths": 233,
+    "new_cases": 269,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 7926,
+    "deaths": 239,
+    "new_cases": 218,
+    "new_deaths": 6
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 8247,
+    "deaths": 251,
+    "new_cases": 321,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 8621,
+    "deaths": 266,
+    "new_cases": 374,
+    "new_deaths": 15
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 8962,
+    "deaths": 279,
+    "new_cases": 341,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 9289,
+    "deaths": 296,
+    "new_cases": 327,
+    "new_deaths": 17
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Rhode Island",
+    "fips": 44,
+    "cases": 9477,
+    "deaths": 320,
+    "new_cases": 188,
+    "new_deaths": 24
   }
 ]

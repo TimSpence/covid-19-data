@@ -763,5 +763,140 @@
     "deaths": 1146,
     "new_cases": 1431,
     "new_deaths": 96
+  },
+  {
+    "date": "2020-04-19",
+    "state": "California",
+    "fips": 6,
+    "cases": 31544,
+    "deaths": 1176,
+    "new_cases": 715,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-20",
+    "state": "California",
+    "fips": 6,
+    "cases": 33862,
+    "deaths": 1223,
+    "new_cases": 2318,
+    "new_deaths": 47
+  },
+  {
+    "date": "2020-04-21",
+    "state": "California",
+    "fips": 6,
+    "cases": 35844,
+    "deaths": 1316,
+    "new_cases": 1982,
+    "new_deaths": 93
+  },
+  {
+    "date": "2020-04-22",
+    "state": "California",
+    "fips": 6,
+    "cases": 37573,
+    "deaths": 1425,
+    "new_cases": 1729,
+    "new_deaths": 109
+  },
+  {
+    "date": "2020-04-23",
+    "state": "California",
+    "fips": 6,
+    "cases": 39534,
+    "deaths": 1553,
+    "new_cases": 1961,
+    "new_deaths": 128
+  },
+  {
+    "date": "2020-04-24",
+    "state": "California",
+    "fips": 6,
+    "cases": 41368,
+    "deaths": 1619,
+    "new_cases": 1834,
+    "new_deaths": 66
+  },
+  {
+    "date": "2020-04-25",
+    "state": "California",
+    "fips": 6,
+    "cases": 42590,
+    "deaths": 1692,
+    "new_cases": 1222,
+    "new_deaths": 73
+  },
+  {
+    "date": "2020-04-26",
+    "state": "California",
+    "fips": 6,
+    "cases": 43691,
+    "deaths": 1716,
+    "new_cases": 1101,
+    "new_deaths": 24
+  },
+  {
+    "date": "2020-04-27",
+    "state": "California",
+    "fips": 6,
+    "cases": 45208,
+    "deaths": 1800,
+    "new_cases": 1517,
+    "new_deaths": 84
+  },
+  {
+    "date": "2020-04-28",
+    "state": "California",
+    "fips": 6,
+    "cases": 46570,
+    "deaths": 1884,
+    "new_cases": 1362,
+    "new_deaths": 84
+  },
+  {
+    "date": "2020-04-29",
+    "state": "California",
+    "fips": 6,
+    "cases": 48904,
+    "deaths": 1961,
+    "new_cases": 2334,
+    "new_deaths": 77
+  },
+  {
+    "date": "2020-04-30",
+    "state": "California",
+    "fips": 6,
+    "cases": 50470,
+    "deaths": 2057,
+    "new_cases": 1566,
+    "new_deaths": 96
+  },
+  {
+    "date": "2020-05-01",
+    "state": "California",
+    "fips": 6,
+    "cases": 52318,
+    "deaths": 2147,
+    "new_cases": 1848,
+    "new_deaths": 90
+  },
+  {
+    "date": "2020-05-02",
+    "state": "California",
+    "fips": 6,
+    "cases": 53753,
+    "deaths": 2213,
+    "new_cases": 1435,
+    "new_deaths": 66
+  },
+  {
+    "date": "2020-05-03",
+    "state": "California",
+    "fips": 6,
+    "cases": 55072,
+    "deaths": 2235,
+    "new_cases": 1319,
+    "new_deaths": 22
   }
 ]

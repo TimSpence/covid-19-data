@@ -196,5 +196,140 @@
     "deaths": 2,
     "new_cases": 0,
     "new_deaths": 0
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Northern Mariana Islands",
+    "fips": 69,
+    "cases": 14,
+    "deaths": 2,
+    "new_cases": 0,
+    "new_deaths": 0
   }
 ]

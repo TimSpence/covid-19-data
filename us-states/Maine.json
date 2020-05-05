@@ -340,5 +340,140 @@
     "deaths": 32,
     "new_cases": 20,
     "new_deaths": 3
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 867,
+    "deaths": 34,
+    "new_cases": 20,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 875,
+    "deaths": 35,
+    "new_cases": 8,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 888,
+    "deaths": 36,
+    "new_cases": 13,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 907,
+    "deaths": 39,
+    "new_cases": 19,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 937,
+    "deaths": 44,
+    "new_cases": 30,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 965,
+    "deaths": 47,
+    "new_cases": 28,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 990,
+    "deaths": 50,
+    "new_cases": 25,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1015,
+    "deaths": 50,
+    "new_cases": 25,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1023,
+    "deaths": 51,
+    "new_cases": 8,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1040,
+    "deaths": 51,
+    "new_cases": 17,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1056,
+    "deaths": 52,
+    "new_cases": 16,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1095,
+    "deaths": 53,
+    "new_cases": 39,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1123,
+    "deaths": 55,
+    "new_cases": 28,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1152,
+    "deaths": 56,
+    "new_cases": 29,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Maine",
+    "fips": 23,
+    "cases": 1185,
+    "deaths": 57,
+    "new_cases": 33,
+    "new_deaths": 1
   }
 ]

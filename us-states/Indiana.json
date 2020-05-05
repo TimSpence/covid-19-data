@@ -394,5 +394,140 @@
     "deaths": 545,
     "new_cases": 487,
     "new_deaths": 26
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 11210,
+    "deaths": 562,
+    "new_cases": 569,
+    "new_deaths": 17
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 11686,
+    "deaths": 569,
+    "new_cases": 476,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 12097,
+    "deaths": 630,
+    "new_cases": 411,
+    "new_deaths": 61
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 12438,
+    "deaths": 661,
+    "new_cases": 341,
+    "new_deaths": 31
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 13039,
+    "deaths": 706,
+    "new_cases": 601,
+    "new_deaths": 45
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 13680,
+    "deaths": 741,
+    "new_cases": 641,
+    "new_deaths": 35
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 14395,
+    "deaths": 785,
+    "new_cases": 715,
+    "new_deaths": 44
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 15012,
+    "deaths": 813,
+    "new_cases": 617,
+    "new_deaths": 28
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 15961,
+    "deaths": 844,
+    "new_cases": 949,
+    "new_deaths": 31
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 16579,
+    "deaths": 901,
+    "new_cases": 618,
+    "new_deaths": 57
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 17168,
+    "deaths": 964,
+    "new_cases": 589,
+    "new_deaths": 63
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 17822,
+    "deaths": 1007,
+    "new_cases": 654,
+    "new_deaths": 43
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 18630,
+    "deaths": 1062,
+    "new_cases": 808,
+    "new_deaths": 55
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 19295,
+    "deaths": 1115,
+    "new_cases": 665,
+    "new_deaths": 53
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Indiana",
+    "fips": 18,
+    "cases": 19933,
+    "deaths": 1132,
+    "new_cases": 638,
+    "new_deaths": 17
   }
 ]

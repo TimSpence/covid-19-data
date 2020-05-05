@@ -556,5 +556,140 @@
     "deaths": 28,
     "new_cases": 132,
     "new_deaths": 4
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 1474,
+    "deaths": 28,
+    "new_cases": 126,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 1648,
+    "deaths": 33,
+    "new_cases": 174,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 1727,
+    "deaths": 38,
+    "new_cases": 79,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 1827,
+    "deaths": 43,
+    "new_cases": 100,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 2191,
+    "deaths": 47,
+    "new_cases": 364,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 2475,
+    "deaths": 51,
+    "new_cases": 284,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 2900,
+    "deaths": 53,
+    "new_cases": 425,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 3126,
+    "deaths": 55,
+    "new_cases": 226,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 3487,
+    "deaths": 55,
+    "new_cases": 361,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 3613,
+    "deaths": 57,
+    "new_cases": 126,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 3876,
+    "deaths": 68,
+    "new_cases": 263,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 4332,
+    "deaths": 71,
+    "new_cases": 456,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 4838,
+    "deaths": 73,
+    "new_cases": 506,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 5333,
+    "deaths": 76,
+    "new_cases": 495,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Nebraska",
+    "fips": 31,
+    "cases": 5687,
+    "deaths": 78,
+    "new_cases": 354,
+    "new_deaths": 2
   }
 ]

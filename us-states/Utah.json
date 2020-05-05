@@ -484,5 +484,140 @@
     "deaths": 25,
     "new_cases": 129,
     "new_deaths": 2
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3071,
+    "deaths": 27,
+    "new_cases": 129,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3213,
+    "deaths": 28,
+    "new_cases": 142,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3301,
+    "deaths": 32,
+    "new_cases": 88,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3451,
+    "deaths": 34,
+    "new_cases": 150,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3621,
+    "deaths": 35,
+    "new_cases": 170,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3782,
+    "deaths": 39,
+    "new_cases": 161,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 3950,
+    "deaths": 41,
+    "new_cases": 168,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4123,
+    "deaths": 41,
+    "new_cases": 173,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4236,
+    "deaths": 41,
+    "new_cases": 113,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4343,
+    "deaths": 45,
+    "new_cases": 107,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4499,
+    "deaths": 45,
+    "new_cases": 156,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4672,
+    "deaths": 46,
+    "new_cases": 173,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4829,
+    "deaths": 46,
+    "new_cases": 157,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 4981,
+    "deaths": 49,
+    "new_cases": 152,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Utah",
+    "fips": 49,
+    "cases": 5175,
+    "deaths": 50,
+    "new_cases": 194,
+    "new_deaths": 1
   }
 ]

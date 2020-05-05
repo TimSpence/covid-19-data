@@ -403,5 +403,140 @@
     "deaths": 409,
     "new_cases": 386,
     "new_deaths": 20
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 9730,
+    "deaths": 421,
+    "new_cases": 297,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 10106,
+    "deaths": 448,
+    "new_cases": 376,
+    "new_deaths": 27
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 10447,
+    "deaths": 484,
+    "new_cases": 341,
+    "new_deaths": 36
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 10878,
+    "deaths": 526,
+    "new_cases": 431,
+    "new_deaths": 42
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 11262,
+    "deaths": 557,
+    "new_cases": 384,
+    "new_deaths": 31
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 12255,
+    "deaths": 672,
+    "new_cases": 993,
+    "new_deaths": 115
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 12968,
+    "deaths": 670,
+    "new_cases": 713,
+    "new_deaths": -2
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 13441,
+    "deaths": 678,
+    "new_cases": 473,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 13804,
+    "deaths": 705,
+    "new_cases": 363,
+    "new_deaths": 27
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 14239,
+    "deaths": 734,
+    "new_cases": 435,
+    "new_deaths": 29
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 14680,
+    "deaths": 764,
+    "new_cases": 441,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 15207,
+    "deaths": 775,
+    "new_cases": 527,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 15661,
+    "deaths": 818,
+    "new_cases": 454,
+    "new_deaths": 43
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 16118,
+    "deaths": 830,
+    "new_cases": 457,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Colorado",
+    "fips": 8.0,
+    "cases": 16527,
+    "deaths": 840,
+    "new_cases": 409,
+    "new_deaths": 10
   }
 ]

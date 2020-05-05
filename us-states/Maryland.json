@@ -403,5 +403,140 @@
     "deaths": 463,
     "new_cases": 736,
     "new_deaths": 38
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 12830,
+    "deaths": 486,
+    "new_cases": 522,
+    "new_deaths": 23
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 13684,
+    "deaths": 516,
+    "new_cases": 854,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 14193,
+    "deaths": 584,
+    "new_cases": 509,
+    "new_deaths": 68
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 14775,
+    "deaths": 632,
+    "new_cases": 582,
+    "new_deaths": 48
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 15737,
+    "deaths": 680,
+    "new_cases": 962,
+    "new_deaths": 48
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 16618,
+    "deaths": 723,
+    "new_cases": 881,
+    "new_deaths": 43
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 17766,
+    "deaths": 797,
+    "new_cases": 1148,
+    "new_deaths": 74
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 18581,
+    "deaths": 827,
+    "new_cases": 815,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 19487,
+    "deaths": 858,
+    "new_cases": 906,
+    "new_deaths": 31
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 20113,
+    "deaths": 929,
+    "new_cases": 626,
+    "new_deaths": 71
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 20849,
+    "deaths": 985,
+    "new_cases": 736,
+    "new_deaths": 56
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 21742,
+    "deaths": 1047,
+    "new_cases": 893,
+    "new_deaths": 62
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 23472,
+    "deaths": 1098,
+    "new_cases": 1730,
+    "new_deaths": 51
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 24473,
+    "deaths": 1156,
+    "new_cases": 1001,
+    "new_deaths": 58
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Maryland",
+    "fips": 24,
+    "cases": 25462,
+    "deaths": 1182,
+    "new_cases": 989,
+    "new_deaths": 26
   }
 ]

@@ -394,5 +394,140 @@
     "deaths": 1150,
     "new_cases": 1621,
     "new_deaths": 123
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 32992,
+    "deaths": 1285,
+    "new_cases": 1250,
+    "new_deaths": 135
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 34005,
+    "deaths": 1366,
+    "new_cases": 1013,
+    "new_deaths": 81
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 35384,
+    "deaths": 1620,
+    "new_cases": 1379,
+    "new_deaths": 254
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 36763,
+    "deaths": 1720,
+    "new_cases": 1379,
+    "new_deaths": 100
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 38334,
+    "deaths": 1723,
+    "new_cases": 1571,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 40298,
+    "deaths": 1786,
+    "new_cases": 1964,
+    "new_deaths": 63
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 41626,
+    "deaths": 1842,
+    "new_cases": 1328,
+    "new_deaths": 56
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 42709,
+    "deaths": 1871,
+    "new_cases": 1083,
+    "new_deaths": 29
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 43728,
+    "deaths": 1946,
+    "new_cases": 1019,
+    "new_deaths": 75
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 45323,
+    "deaths": 2092,
+    "new_cases": 1595,
+    "new_deaths": 146
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 46191,
+    "deaths": 2392,
+    "new_cases": 868,
+    "new_deaths": 300
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 48224,
+    "deaths": 2575,
+    "new_cases": 2033,
+    "new_deaths": 183
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 49764,
+    "deaths": 2671,
+    "new_cases": 1540,
+    "new_deaths": 96
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 51071,
+    "deaths": 2794,
+    "new_cases": 1307,
+    "new_deaths": 123
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Pennsylvania",
+    "fips": 42,
+    "cases": 52079,
+    "deaths": 2843,
+    "new_cases": 1008,
+    "new_deaths": 49
   }
 ]

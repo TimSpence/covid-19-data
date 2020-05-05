@@ -772,5 +772,140 @@
     "deaths": 1272,
     "new_cases": 1585,
     "new_deaths": 130
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 30357,
+    "deaths": 1302,
+    "new_cases": 1197,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 31508,
+    "deaths": 1359,
+    "new_cases": 1151,
+    "new_deaths": 57
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 33059,
+    "deaths": 1479,
+    "new_cases": 1551,
+    "new_deaths": 120
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 35108,
+    "deaths": 1577,
+    "new_cases": 2049,
+    "new_deaths": 98
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 36935,
+    "deaths": 1696,
+    "new_cases": 1827,
+    "new_deaths": 119
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 39658,
+    "deaths": 1804,
+    "new_cases": 2723,
+    "new_deaths": 108
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 41777,
+    "deaths": 1884,
+    "new_cases": 2119,
+    "new_deaths": 80
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 43903,
+    "deaths": 1943,
+    "new_cases": 2126,
+    "new_deaths": 59
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 45883,
+    "deaths": 1992,
+    "new_cases": 1980,
+    "new_deaths": 49
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 48102,
+    "deaths": 2132,
+    "new_cases": 2219,
+    "new_deaths": 140
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 50355,
+    "deaths": 2221,
+    "new_cases": 2253,
+    "new_deaths": 89
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 52918,
+    "deaths": 2361,
+    "new_cases": 2563,
+    "new_deaths": 140
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 56055,
+    "deaths": 2464,
+    "new_cases": 3137,
+    "new_deaths": 103
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 58505,
+    "deaths": 2576,
+    "new_cases": 2450,
+    "new_deaths": 112
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Illinois",
+    "fips": 17,
+    "cases": 61499,
+    "deaths": 2632,
+    "new_cases": 2994,
+    "new_deaths": 56
   }
 ]

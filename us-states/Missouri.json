@@ -385,5 +385,140 @@
     "deaths": 194,
     "new_cases": 234,
     "new_deaths": 10
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5667,
+    "deaths": 196,
+    "new_cases": 150,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5807,
+    "deaths": 201,
+    "new_cases": 140,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 5941,
+    "deaths": 221,
+    "new_cases": 134,
+    "new_deaths": 20
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 6137,
+    "deaths": 236,
+    "new_cases": 196,
+    "new_deaths": 15
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 6321,
+    "deaths": 248,
+    "new_cases": 184,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 6625,
+    "deaths": 267,
+    "new_cases": 304,
+    "new_deaths": 19
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 6826,
+    "deaths": 280,
+    "new_cases": 201,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 6997,
+    "deaths": 282,
+    "new_cases": 171,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 7171,
+    "deaths": 296,
+    "new_cases": 174,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 7306,
+    "deaths": 324,
+    "new_cases": 135,
+    "new_deaths": 28
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 7426,
+    "deaths": 331,
+    "new_cases": 120,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 7563,
+    "deaths": 341,
+    "new_cases": 137,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 7840,
+    "deaths": 355,
+    "new_cases": 277,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 8154,
+    "deaths": 373,
+    "new_cases": 314,
+    "new_deaths": 18
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Missouri",
+    "fips": 29,
+    "cases": 8454,
+    "deaths": 378,
+    "new_cases": 300,
+    "new_deaths": 5
   }
 ]

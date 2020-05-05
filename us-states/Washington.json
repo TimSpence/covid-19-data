@@ -799,5 +799,140 @@
     "deaths": 629,
     "new_cases": 357,
     "new_deaths": 19
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 11805,
+    "deaths": 637,
+    "new_cases": 3,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 12191,
+    "deaths": 661,
+    "new_cases": 386,
+    "new_deaths": 24
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 12345,
+    "deaths": 683,
+    "new_cases": 154,
+    "new_deaths": 22
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 12539,
+    "deaths": 696,
+    "new_cases": 194,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 12906,
+    "deaths": 717,
+    "new_cases": 367,
+    "new_deaths": 21
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 13120,
+    "deaths": 731,
+    "new_cases": 214,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 13484,
+    "deaths": 743,
+    "new_cases": 364,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 13663,
+    "deaths": 757,
+    "new_cases": 179,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 13864,
+    "deaths": 771,
+    "new_cases": 201,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 14059,
+    "deaths": 792,
+    "new_cases": 195,
+    "new_deaths": 21
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 14378,
+    "deaths": 805,
+    "new_cases": 319,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 14696,
+    "deaths": 822,
+    "new_cases": 318,
+    "new_deaths": 17
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 15010,
+    "deaths": 829,
+    "new_cases": 314,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 15253,
+    "deaths": 833,
+    "new_cases": 243,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Washington",
+    "fips": 53,
+    "cases": 15580,
+    "deaths": 840,
+    "new_cases": 327,
+    "new_deaths": 7
   }
 ]

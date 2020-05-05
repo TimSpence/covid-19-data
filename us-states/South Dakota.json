@@ -274,16 +274,16 @@
     "state": "South Dakota",
     "fips": 46,
     "cases": 447,
-    "deaths": 7,
+    "deaths": 6,
     "new_cases": 54,
-    "new_deaths": 1
+    "new_deaths": 0
   },
   {
     "date": "2020-04-10",
     "state": "South Dakota",
     "fips": 46,
     "cases": 536,
-    "deaths": 7,
+    "deaths": 6,
     "new_cases": 89,
     "new_deaths": 0
   },
@@ -294,7 +294,7 @@
     "cases": 626,
     "deaths": 6,
     "new_cases": 90,
-    "new_deaths": -1
+    "new_deaths": 0
   },
   {
     "date": "2020-04-12",
@@ -357,6 +357,141 @@
     "cases": 1542,
     "deaths": 7,
     "new_cases": 131,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-19",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 1635,
+    "deaths": 7,
+    "new_cases": 93,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 1685,
+    "deaths": 7,
+    "new_cases": 50,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-21",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 1755,
+    "deaths": 8,
+    "new_cases": 70,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-22",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 1858,
+    "deaths": 9,
+    "new_cases": 103,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-23",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 1956,
+    "deaths": 9,
+    "new_cases": 98,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-24",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2040,
+    "deaths": 10,
+    "new_cases": 84,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-25",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2147,
+    "deaths": 10,
+    "new_cases": 107,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-26",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2213,
+    "deaths": 11,
+    "new_cases": 66,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-27",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2246,
+    "deaths": 11,
+    "new_cases": 33,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2314,
+    "deaths": 11,
+    "new_cases": 68,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2375,
+    "deaths": 13,
+    "new_cases": 61,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-30",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2450,
+    "deaths": 17,
+    "new_cases": 75,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-05-01",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2526,
+    "deaths": 21,
+    "new_cases": 76,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-05-02",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2588,
+    "deaths": 21,
+    "new_cases": 62,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-03",
+    "state": "South Dakota",
+    "fips": 46,
+    "cases": 2631,
+    "deaths": 21,
+    "new_cases": 43,
     "new_deaths": 0
   }
 ]

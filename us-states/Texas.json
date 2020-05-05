@@ -601,5 +601,140 @@
     "deaths": 487,
     "new_cases": 796,
     "new_deaths": 26
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 19441,
+    "deaths": 503,
+    "new_cases": 514,
+    "new_deaths": 16
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 20035,
+    "deaths": 523,
+    "new_cases": 594,
+    "new_deaths": 20
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 20949,
+    "deaths": 552,
+    "new_cases": 914,
+    "new_deaths": 29
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 21769,
+    "deaths": 571,
+    "new_cases": 820,
+    "new_deaths": 19
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 22706,
+    "deaths": 601,
+    "new_cases": 937,
+    "new_deaths": 30
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 23650,
+    "deaths": 625,
+    "new_cases": 944,
+    "new_deaths": 24
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 24494,
+    "deaths": 662,
+    "new_cases": 844,
+    "new_deaths": 37
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 25206,
+    "deaths": 676,
+    "new_cases": 712,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 25960,
+    "deaths": 699,
+    "new_cases": 754,
+    "new_deaths": 23
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 26865,
+    "deaths": 738,
+    "new_cases": 905,
+    "new_deaths": 39
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 27836,
+    "deaths": 776,
+    "new_cases": 971,
+    "new_deaths": 38
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 29072,
+    "deaths": 828,
+    "new_cases": 1236,
+    "new_deaths": 52
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 30339,
+    "deaths": 853,
+    "new_cases": 1267,
+    "new_deaths": 25
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 31430,
+    "deaths": 875,
+    "new_cases": 1091,
+    "new_deaths": 22
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Texas",
+    "fips": 48,
+    "cases": 32296,
+    "deaths": 890,
+    "new_cases": 866,
+    "new_deaths": 15
   }
 ]

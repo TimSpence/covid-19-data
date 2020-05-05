@@ -394,5 +394,140 @@
     "deaths": 9,
     "new_cases": 21,
     "new_deaths": 0
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 574,
+    "deaths": 10,
+    "new_cases": 6,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 578,
+    "deaths": 10,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 580,
+    "deaths": 12,
+    "new_cases": 2,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 586,
+    "deaths": 12,
+    "new_cases": 6,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 590,
+    "deaths": 12,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 595,
+    "deaths": 13,
+    "new_cases": 5,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 597,
+    "deaths": 14,
+    "new_cases": 2,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 599,
+    "deaths": 14,
+    "new_cases": 2,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 600,
+    "deaths": 16,
+    "new_cases": 1,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 602,
+    "deaths": 16,
+    "new_cases": 2,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 605,
+    "deaths": 16,
+    "new_cases": 3,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 609,
+    "deaths": 16,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 610,
+    "deaths": 16,
+    "new_cases": 1,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 611,
+    "deaths": 16,
+    "new_cases": 1,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Hawaii",
+    "fips": 15,
+    "cases": 611,
+    "deaths": 17,
+    "new_cases": 0,
+    "new_deaths": 1
   }
 ]

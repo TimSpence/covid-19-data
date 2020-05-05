@@ -403,5 +403,140 @@
     "deaths": 155,
     "new_cases": 102,
     "new_deaths": 4
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3741,
+    "deaths": 158,
+    "new_cases": 115,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3830,
+    "deaths": 163,
+    "new_cases": 89,
+    "new_deaths": 5
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 3937,
+    "deaths": 163,
+    "new_cases": 107,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4081,
+    "deaths": 187,
+    "new_cases": 144,
+    "new_deaths": 24
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4208,
+    "deaths": 195,
+    "new_cases": 127,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4398,
+    "deaths": 203,
+    "new_cases": 190,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4539,
+    "deaths": 206,
+    "new_cases": 141,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4638,
+    "deaths": 206,
+    "new_cases": 99,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4708,
+    "deaths": 219,
+    "new_cases": 70,
+    "new_deaths": 13
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4812,
+    "deaths": 225,
+    "new_cases": 104,
+    "new_deaths": 6
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 4934,
+    "deaths": 237,
+    "new_cases": 122,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 5053,
+    "deaths": 243,
+    "new_cases": 119,
+    "new_deaths": 6
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 5249,
+    "deaths": 254,
+    "new_cases": 196,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 5390,
+    "deaths": 257,
+    "new_cases": 141,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Nevada",
+    "fips": 32,
+    "cases": 5473,
+    "deaths": 262,
+    "new_cases": 83,
+    "new_deaths": 5
   }
 ]

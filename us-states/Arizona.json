@@ -754,5 +754,140 @@
     "deaths": 181,
     "new_cases": 212,
     "new_deaths": 7
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 4929,
+    "deaths": 188,
+    "new_cases": 210,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 5064,
+    "deaths": 191,
+    "new_cases": 135,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 5251,
+    "deaths": 213,
+    "new_cases": 187,
+    "new_deaths": 22
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 5459,
+    "deaths": 236,
+    "new_cases": 208,
+    "new_deaths": 23
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 5769,
+    "deaths": 257,
+    "new_cases": 310,
+    "new_deaths": 21
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 6045,
+    "deaths": 268,
+    "new_cases": 276,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 6280,
+    "deaths": 275,
+    "new_cases": 235,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 6526,
+    "deaths": 277,
+    "new_cases": 246,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 6716,
+    "deaths": 277,
+    "new_cases": 190,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 6948,
+    "deaths": 297,
+    "new_cases": 232,
+    "new_deaths": 20
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 7202,
+    "deaths": 308,
+    "new_cases": 254,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 7648,
+    "deaths": 320,
+    "new_cases": 446,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 7962,
+    "deaths": 330,
+    "new_cases": 314,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 8364,
+    "deaths": 353,
+    "new_cases": 402,
+    "new_deaths": 23
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Arizona",
+    "fips": 4,
+    "cases": 8640,
+    "deaths": 362,
+    "new_cases": 276,
+    "new_deaths": 9
   }
 ]

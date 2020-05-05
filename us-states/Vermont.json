@@ -385,5 +385,140 @@
     "deaths": 37,
     "new_cases": 24,
     "new_deaths": 2
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 812,
+    "deaths": 37,
+    "new_cases": 9,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 816,
+    "deaths": 38,
+    "new_cases": 4,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 818,
+    "deaths": 40,
+    "new_cases": 2,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 823,
+    "deaths": 40,
+    "new_cases": 5,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 825,
+    "deaths": 43,
+    "new_cases": 2,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 827,
+    "deaths": 44,
+    "new_cases": 2,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 843,
+    "deaths": 46,
+    "new_cases": 16,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 851,
+    "deaths": 46,
+    "new_cases": 8,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 855,
+    "deaths": 47,
+    "new_cases": 4,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 862,
+    "deaths": 47,
+    "new_cases": 7,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 862,
+    "deaths": 47,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 866,
+    "deaths": 49,
+    "new_cases": 4,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 879,
+    "deaths": 50,
+    "new_cases": 13,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 886,
+    "deaths": 51,
+    "new_cases": 7,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Vermont",
+    "fips": 50,
+    "cases": 897,
+    "deaths": 53,
+    "new_cases": 11,
+    "new_deaths": 2
   }
 ]

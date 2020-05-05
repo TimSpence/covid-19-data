@@ -349,5 +349,140 @@
     "deaths": 152,
     "new_cases": 181,
     "new_deaths": 12
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 4274,
+    "deaths": 159,
+    "new_cases": 300,
+    "new_deaths": 7
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 4512,
+    "deaths": 169,
+    "new_cases": 238,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 4716,
+    "deaths": 183,
+    "new_cases": 204,
+    "new_deaths": 14
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 4894,
+    "deaths": 193,
+    "new_cases": 178,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 5153,
+    "deaths": 201,
+    "new_cases": 259,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 5434,
+    "deaths": 209,
+    "new_cases": 281,
+    "new_deaths": 8
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 5718,
+    "deaths": 221,
+    "new_cases": 284,
+    "new_deaths": 12
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 5911,
+    "deaths": 227,
+    "new_cases": 193,
+    "new_deaths": 6
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 6094,
+    "deaths": 229,
+    "new_cases": 183,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 6342,
+    "deaths": 239,
+    "new_cases": 248,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 6569,
+    "deaths": 250,
+    "new_cases": 227,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 6815,
+    "deaths": 261,
+    "new_cases": 246,
+    "new_deaths": 11
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 7212,
+    "deaths": 281,
+    "new_cases": 397,
+    "new_deaths": 20
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 7441,
+    "deaths": 291,
+    "new_cases": 229,
+    "new_deaths": 10
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Mississippi",
+    "fips": 28,
+    "cases": 7550,
+    "deaths": 303,
+    "new_cases": 109,
+    "new_deaths": 12
   }
 ]

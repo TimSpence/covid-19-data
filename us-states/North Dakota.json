@@ -349,5 +349,140 @@
     "deaths": 9,
     "new_cases": 89,
     "new_deaths": 0
+  },
+  {
+    "date": "2020-04-19",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 585,
+    "deaths": 10,
+    "new_cases": 57,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-20",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 627,
+    "deaths": 13,
+    "new_cases": 42,
+    "new_deaths": 3
+  },
+  {
+    "date": "2020-04-21",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 644,
+    "deaths": 13,
+    "new_cases": 17,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-22",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 679,
+    "deaths": 14,
+    "new_cases": 35,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-23",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 709,
+    "deaths": 15,
+    "new_cases": 30,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-24",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 748,
+    "deaths": 15,
+    "new_cases": 39,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-25",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 803,
+    "deaths": 16,
+    "new_cases": 55,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-26",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 867,
+    "deaths": 17,
+    "new_cases": 64,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-27",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 942,
+    "deaths": 19,
+    "new_cases": 75,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-28",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 991,
+    "deaths": 19,
+    "new_cases": 49,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-29",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 1033,
+    "deaths": 19,
+    "new_cases": 42,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-30",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 1067,
+    "deaths": 19,
+    "new_cases": 34,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-01",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 1107,
+    "deaths": 23,
+    "new_cases": 40,
+    "new_deaths": 4
+  },
+  {
+    "date": "2020-05-02",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 1153,
+    "deaths": 24,
+    "new_cases": 46,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-05-03",
+    "state": "North Dakota",
+    "fips": 38,
+    "cases": 1191,
+    "deaths": 25,
+    "new_cases": 38,
+    "new_deaths": 1
   }
 ]

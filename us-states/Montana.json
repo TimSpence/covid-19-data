@@ -331,5 +331,140 @@
     "deaths": 10,
     "new_cases": 4,
     "new_deaths": 2
+  },
+  {
+    "date": "2020-04-19",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 433,
+    "deaths": 10,
+    "new_cases": 7,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-20",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 433,
+    "deaths": 12,
+    "new_cases": 0,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-21",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 437,
+    "deaths": 12,
+    "new_cases": 4,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-22",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 439,
+    "deaths": 14,
+    "new_cases": 2,
+    "new_deaths": 2
+  },
+  {
+    "date": "2020-04-23",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 442,
+    "deaths": 14,
+    "new_cases": 3,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-24",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 444,
+    "deaths": 14,
+    "new_cases": 2,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-25",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 445,
+    "deaths": 14,
+    "new_cases": 1,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-26",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 448,
+    "deaths": 14,
+    "new_cases": 3,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-27",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 449,
+    "deaths": 14,
+    "new_cases": 1,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-04-28",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 451,
+    "deaths": 15,
+    "new_cases": 2,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-29",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 451,
+    "deaths": 16,
+    "new_cases": 0,
+    "new_deaths": 1
+  },
+  {
+    "date": "2020-04-30",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 453,
+    "deaths": 16,
+    "new_cases": 2,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-01",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 453,
+    "deaths": 16,
+    "new_cases": 0,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-02",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 455,
+    "deaths": 16,
+    "new_cases": 2,
+    "new_deaths": 0
+  },
+  {
+    "date": "2020-05-03",
+    "state": "Montana",
+    "fips": 30,
+    "cases": 455,
+    "deaths": 16,
+    "new_cases": 0,
+    "new_deaths": 0
   }
 ]
